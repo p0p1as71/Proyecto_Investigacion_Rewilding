@@ -1,8 +1,16 @@
 ---
 tipo: sintesis
 estado: pendiente
+version: 0
+fecha: 2026-08-03
+depende_de:
+  - todos los capítulos en estado cerrado
+---
+---
+tipo: sintesis
+estado: pendiente
 version: 0.0
-fecha: 2026-08-02
+fecha: 2026-08-03
 depende_de: ["todos los capítulos en estado cerrado"]
 ---
 
@@ -26,13 +34,13 @@ Flujo: `pendiente -> en_redaccion -> en_revision -> verificado -> cerrado`
 | 01 | Limitaciones | **cerrado** (confirmado por Popi) |
 | 02 | Marco Jurídico | en_redaccion · 3 bloqueos abiertos |
 | 03 | Marco Científico | en_redaccion · 3 bloqueos abiertos |
-| 04 | Marco Social | en_redaccion · Oteros-Rozas y Manzano/Azcárate/Hevia verificados hoy; 6 bloqueos restantes |
+| 04 | Marco Social | en_redaccion · 6 de 9 afirmaciones verificadas; 3 bloqueos restantes (cabreros, Manzano-publicación exacta, Resco de Dios) |
 | 05 | Reintroducciones | en_redaccion · tabla comparativa 5 especies |
 | 06 | Especies (5 archivos) | en_redaccion · regla de cierre parcial por sección ya disponible (§15) |
 | 07 | Rewilding Spain vs. Europe | en_redaccion |
 | 08 | Evidencia Empírica | en_redaccion |
 | 08 | Gobernanza Científica | en_redaccion |
-| 09 | Entrevistas | en_redaccion · estado real aclarado, vacío legítimo, sin bloqueos |
+| 09 | Entrevistas | en_redaccion · Prof. Ojanguren acepta entrevista, pendiente fijar fecha/medio |
 | 10 | Matriz de Evidencia | en_redaccion · 65 AF-### registradas |
 | 11 | Cronología | en_redaccion · series A+B completas |
 | 12 | Referencias | en_redaccion · N6 con primeras verificaciones (Oteros-Rozas, Manzano/Azcárate/Hevia) |

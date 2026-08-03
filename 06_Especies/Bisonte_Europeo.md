@@ -2,7 +2,15 @@
 tipo: capitulo
 estado: en_redaccion
 version: 0.1
-fecha: 2026-08-02
+fecha: 2026-08-03
+depende_de:
+  - 05_Reintroducciones/Reintroducciones.md
+---
+---
+tipo: capitulo
+estado: en_redaccion
+version: 0.1
+fecha: 2026-08-03
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -90,7 +98,140 @@ Aplicando DE-006: no se ha localizado confirmación de especie. El hallazgo no
 altera, por sí mismo, la conclusión del dictamen CC 62/2020 mientras no se publique
 el análisis genético confirmando *B. bonasus* específicamente (y no Clado X).
 
-## 5. Síntesis aplicando el principio de simetría (Criterios §11)
+## 5. El Recuenco: la narrativa "bisontes bomberos" — verificado hoy
+
+Verificado contra múltiples medios (CLM24, ecoticias.com, El Diario, NuevaAlcarria,
+okdiario, El Español, Guadared, COPE, GuadalajaraDiario) [N4/N5, consultado
+2026-08-03]: desde finales de enero de 2026, nueve bisontes europeos (cinco
+hembras, cuatro machos), procedentes de una finca privada en El Espinar
+(Segovia), pastan en régimen de semilibertad sobre 400 hectáreas de monte
+público en El Recuenco (Alto Tajo, Guadalajara) —dentro de una superficie
+municipal disponible de más de 20.000 hectáreas—. Programa impulsado por el
+alcalde, Enrique Collada, en colaboración con Rewilding Spain, la Universidad
+de Manchester, la Universidad del País Vasco (EHU) y el centro ECONOVO
+(Universidad de Aarhus), con seguimiento veterinario y GPS permanente.
+
+**La afirmación central, cuantificada y repetida casi textualmente en al menos
+cinco medios distintos:** el alcalde declara que "un 30% de lo que comen es
+madera" — presentada como capacidad única del bisonte frente a otros
+herbívoros para reducir biomasa leñosa y por tanto riesgo de incendio. Mara
+Zamora (directora de Rewilding Spain) refuerza el marco: "se les conoce como
+los ingenieros de los ecosistemas".
+
+**Contraste crítico — Carlos Nores, ya fuente clave de este proyecto
+(`03_Marco_Cientifico/` §3), verificado hoy con declaraciones específicas
+sobre este caso concreto** [N2/N5]: advierte de que el proyecto no debe
+convertirse en "parche verde" y que "unos pocos animales no sustituyen
+cortafuegos, desbroces ni planificación". Distingue explícitamente —ya
+recogido en `05_Reintroducciones/` §4— entre este ensayo cerrado (recinto
+vallado, vigilancia veterinaria) y una eventual suelta libre, que consideraría
+un supuesto distinto.
+
+**Matiz científico sin atribuir, encontrado en un medio (Guadared) sin cita
+directa de autor u obra** [N5, `[NO LOCALIZADO]` la fuente primaria]: "el
+bisonte consume madera, sí, pero eso no significa que reduzca de forma
+decisiva el combustible fino, clave en los grandes incendios". Esta es
+exactamente la misma distinción biomasa-leñosa-vs-hojarasca/combustible-fino
+que sostiene el debate ya documentado en `03_Marco_Cientifico/` §4 (Manzano/
+Azcárate/Hevia vs. Resco de Dios) y que, de forma independiente, plantea
+también Alfredo Ojanguren sobre gestión forestal asturiana —un contexto
+distinto (Asturias, no Guadalajara; bosque en general, no rewilding), fuera de
+alcance como fuente directa (`01_Metodologia/Metodologia.md` §7), pero que
+sostiene el mismo argumento científico: distinguir qué tipo de biomasa reduce
+realmente el riesgo, no solo si el animal "come mucho".
+
+**Conexión con `08_Evidencia/Evidencia_Empirica.md`:** el proyecto de El
+Recuenco es, a fecha de consulta, precisamente el tipo de evaluación
+independiente que ese capítulo señala como ausente — un ensayo con
+investigación universitaria asociada (Manchester, EHU, Aarhus) pero **sin
+resultados publicados todavía**. La afirmación "reduce incendios" permanece,
+por tanto, en el mismo estatus que el resto del proyecto: declarada por la
+organización promotora (N4) y por el alcalde (N4), matizada por el crítico
+académico ya identificado (N2/N5), sin evaluación independiente publicada que
+la confirme o refute.
+
+## 6. Verificación científica de la afirmación "30% madera" — profundizado hoy
+
+### 6.1 Estudio real con bisontes en España — hallazgo de máxima relevancia
+
+Verificado hoy [N2, consultado 2026-08-03]: **Bartolomé, J., Cassinello, J. et al.
+(2024). "Diet comparison between sympatric European bison, red deer and fallow
+deer in a Mediterranean landscape." *Biodiversity and Conservation*** (Universitat
+Autònoma de Barcelona + CSIC-EEZA). Estudio real de dieta de bisonte europeo en
+España: finca El Encinarejo (Sierra de Andújar, Jaén), 18 bisontes introducidos a
+finales de 2020 —el límite meridional de distribución de la especie hasta la
+fecha—, en convivencia con ~400 ciervos y ~200 gamos. Análisis microhistológico de
+heces recogidas estacionalmente en 2021.
+
+**Resultado cuantitativo directo:** el componente leñoso representa el **52% de
+los fragmentos vegetales en heces de bisonte** (frente a 81% en ciervo y 38% en
+gamo), con consumo preferente de leñosas en otoño-invierno y de gramíneas en
+verano. Primer estudio en describir el uso de lentisco (*Pistacia lentiscus*)
+como recurso relevante en la dieta del bisonte.
+
+**Dato de gobernanza relevante para este proyecto:** el primer autor, **Jordi
+Bartolomé**, es la misma persona que firma el comentario de 2026 en
+*Conservation Science and Practice* que replica a Nores et al. sobre la
+introducción del bisonte en España (ya citado en `03_Marco_Cientifico/` §3.1,
+DOI 10.1111/csp2.70132). Esto significa que Bartolomé no es solo una voz teórica
+en el debate biogeográfico —tiene datos empíricos propios y de primera mano
+sobre bisontes reales en suelo español—, lo cual **no resuelve** el conflicto
+ya documentado (Criterios §4: se sigue sin arbitrar), pero sí matiza que su
+posición se apoya en trabajo de campo directo, no solo en revisión bibliográfica.
+
+**Contraste con la declaración del alcalde de El Recuenco:** la cifra real
+publicada (52% en El Encinarejo, Jaén) es del mismo orden de magnitud que el
+"30%" declarado por Enrique Collada para El Recuenco, pero **más alta, no más
+baja** — el dato académico no desmiente la plausibilidad biológica de un consumo
+leñoso sustancial, la refuerza. `[PENDIENTE]` el alcalde no cita ninguna fuente
+para su cifra ni metodología (declaración vs. análisis microhistológico) —
+siguen siendo magnitudes no directamente comparables (fincas distintas,
+metodologías distintas, épocas del año distintas).
+
+### 6.2 El mecanismo real de reducción de incendios en la literatura — no es "comer madera"
+
+Verificado hoy [N2, consultado 2026-08-03]: la literatura científica sobre
+pastoreo y reducción de riesgo de incendio (Starns et al. 2019, *Ecosphere*,
+"Recoupling fire and grazing reduces wildland fuel loads on rangelands";
+revisión "How Can Grazing Mitigate Wildfires?", *Sustainability* 2026) atribuye
+la reducción de riesgo al concepto de **"pyric herbivory"**: los grandes
+herbívoros (bisonte incluido, citado explícitamente en Starns et al.) prefieren
+pastar en parches recién quemados o en rebrote, controlando la acumulación de
+**biomasa herbácea fina y muerta** — no al consumo de leña o corteza. El
+mecanismo operativo es el pastoreo de gramíneas/rebrote, no la ingesta de
+material leñoso.
+
+**Esto confirma con fuente real, no ya un matiz sin atribuir, lo que este
+proyecto ya había señalado como `[NO LOCALIZADO]` en §5:** "el bisonte consume
+madera, pero eso no reduce el combustible fino clave en los grandes incendios"
+es coherente con el estado de la ciencia sobre pyric herbivory — el argumento
+de "bisontes bomberos" apoyado en el "30% de madera" conecta un dato de dieta
+real (consumo leñoso) con un mecanismo de reducción de incendios
+(control de combustible fino/herbáceo) que la literatura de referencia atribuye
+a un proceso distinto.
+
+**Marcado `[INFERENCIA]` de este informe, no hallazgo directo de una fuente
+única:** la promoción pública del programa de El Recuenco podría estar
+conectando dos hechos verificados por separado (bisonte come madera; pastoreo
+reduce riesgo de incendio) en una causalidad no necesariamente correcta,
+análoga a la advertencia general de Criterios §3 sobre inferencia vs. hecho.
+Esta lectura queda pendiente de contrastar directamente con estudios de bisonte
++ carga de combustible + comportamiento de fuego, que no se han localizado
+específicos para bisonte (los citados en 6.2 son sobre ganado/pastoreo en
+general, no específicamente sobre *Bison bonasus*).
+
+
+
+## 7. Síntesis aplicando el principio de simetría (Criterios §11) — ampliada
+
+| Afirmación | Quién la sostiene | Nivel | Estado |
+|---|---|---|---|
+| "Un 30% de lo que comen es madera" | Alcalde de El Recuenco, Enrique Collada | N4 | Verificado como declaración; orden de magnitud consistente con estudio real (52% en El Encinarejo, Jaén) aunque metodológicamente no comparable |
+| "Reduce el riesgo de incendios de forma decisiva" | Rewilding Spain, alcalde de El Recuenco | N4 | Sin evaluación independiente publicada (ver `Evidencia_Empirica.md`) |
+| "Comer madera no implica reducir el combustible fino clave en grandes incendios" | Fuente no identificada citada por Guadared | N5 | `[NO LOCALIZADO]` la fuente primaria; coherente con el debate ya documentado en `03_Marco_Cientifico/` §4 |
+| "No sustituye cortafuegos, desbroces ni planificación; riesgo de 'parche verde'" | Carlos Nores | N2/N5 | Verificado hoy, específico de este caso |
+
+**Síntesis original del debate biogeográfico/legal (secciones 2-3):**
 
 | Afirmación | Quién la sostiene | Nivel | Estado |
 |---|---|---|---|
@@ -100,17 +241,23 @@ el análisis genético confirmando *B. bonasus* específicamente (y no Clado X).
 | "No hay datos concluyentes que permitan afirmar la inadecuación de la introducción" | Bartolomé et al. (2026) | N2 | En conflicto abierto con Nores et al., sin consenso documentado |
 | "El hallazgo de Arrafela confirma presencia histórica de bisonte europeo" | Ninguna fuente verificada lo afirma aún | — | `[NO LOCALIZADO]` — dos hipótesis (B. bonasus / Clado X) siguen abiertas |
 
-## 6. Afirmaciones pendientes de incorporar a la Matriz
+## 8. Afirmaciones pendientes de incorporar a la Matriz
 
 `[TODO]`: AF-### para cada fila de la tabla §5 (algunas ya verificadas, listas para
 incorporar directamente; otras pendientes de la datación exacta de *B. priscus* y de
-la cita textual de Rewilding Europe sobre estatus "no nativo").
+la cita textual de Rewilding Europe sobre estatus "no nativo"). AF-### nuevas para
+El Recuenco (§5 y §6 ampliada): cifra de 9 bisontes y consorcio investigador
+(verificado, listo); declaración "30% madera" (verificado como declaración, listo);
+matiz "combustible fino" (N5, fuente no identificada, listo con marcador `[NO
+LOCALIZADO]`); declaraciones de Nores sobre "parche verde" (verificado, listo).
 
 ---
 *Bloqueos abiertos: datación exacta *B. priscus* sin contrastar; cita de Rewilding
-Europe sin contrastar; declaración de Nores sobre legalidad de El Recuenco sin
-contrastar; resultado genético de Arrafela no publicado aún (`[NO LOCALIZADO]`,
-no bloqueo de verificación sino ausencia real de dato). Secciones 2 y 3 de este
+Europe sin contrastar; declaración de Nores sobre legalidad *del recinto* de El
+Recuenco (distinta de sus declaraciones sobre riesgo de "parche verde", ya
+verificadas hoy) sin contrastar; resultado genético de Arrafela no publicado aún
+(`[NO LOCALIZADO]`, no bloqueo de verificación sino ausencia real de dato); fuente
+primaria del matiz "combustible fino" sin identificar. Secciones 2, 3 y 5 de este
 archivo sí cumplen las condiciones de `verificado` (Criterios §10) de forma
 independiente — ver nota pendiente en `05_Reintroducciones/` sobre cierre parcial
 por sección.*

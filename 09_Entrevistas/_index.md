@@ -2,7 +2,18 @@
 tipo: capitulo
 estado: en_redaccion
 version: 0.1
-fecha: 2026-08-02
+fecha: 2026-08-03
+depende_de:
+  - 00_Gobernanza/Criterios_de_Evidencia.md
+  - 00_Gobernanza/Glosario.md
+  - 00_Gobernanza/Decisiones_Editoriales.md
+  - 00_Gobernanza/Convenciones_de_Redaccion.md
+---
+---
+tipo: capitulo
+estado: en_redaccion
+version: 0.1
+fecha: 2026-08-03
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md", "00_Gobernanza/Glosario.md", "00_Gobernanza/Decisiones_Editoriales.md", "00_Gobernanza/Convenciones_de_Redaccion.md"]
 ---
 
@@ -51,9 +62,9 @@ como archivo nuevo por entrevista, nunca editar la plantilla directamente.
 
 ## Solicitudes en curso (pendientes de respuesta)
 
-| Fecha envío | Destinatario | Objeto | Estado |
-|---|---|---|---|
-| `[PENDIENTE fecha]` | Prof. Ojanguren | Solicitud de entrevista — no sobre Rewilding Spain específicamente, sino sobre cuestiones metodológicas más amplias: cómo evaluar científicamente un proyecto de restauración ecológica, papel de la biodiversidad en ese análisis, e influencia de la comunicación pública en la percepción de estos proyectos. Motivada por la hipótesis de trabajo de que la cobertura mediática de Rewilding Spain reproduce mayormente el discurso institucional sin contraste periodístico independiente | Enviada, sin respuesta a fecha de consulta |
+| Fecha envío | Destinatario    | Objeto                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | Estado                                                               |
+| ----------- | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 2026-08-01  | Prof. Ojanguren | Solicitud de entrevista — no sobre Rewilding Spain específicamente, sino sobre cuestiones metodológicas más amplias: cómo evaluar científicamente un proyecto de restauración ecológica, papel de la biodiversidad en ese análisis, e influencia de la comunicación pública en la percepción de estos proyectos. Motivada por la hipótesis de trabajo de que la cobertura mediática de Rewilding Spain reproduce mayormente el discurso institucional sin contraste periodístico independiente | **Respondida 2026-08-02** — acepta, pendiente de fijar fecha y medio |
 
 **Encaje con el proyecto:** a diferencia de una solicitud anterior registrada por
 error en este mismo apartado (acceso a una tesis sobre trucha común, sin relación

@@ -2,7 +2,15 @@
 tipo: capitulo
 estado: en_redaccion
 version: 0.2
-fecha: 2026-08-02
+fecha: 2026-08-03
+depende_de:
+  - 00_Gobernanza/Criterios_de_Evidencia.md
+---
+---
+tipo: capitulo
+estado: en_redaccion
+version: 0.2
+fecha: 2026-08-03
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
 
@@ -19,9 +27,10 @@ metadatos. Consolidado hoy a partir de las fuentes ya verificadas en capítulos
 | ID | Documento | Ruta | SHA-256 | Archivado |
 |---|---|---|---|---|
 | N0-001 | MITECO, Dictamen del Comité Científico, Consulta CC 62/2020 (bisonte europeo) | `12_Referencias/originales/MITECO_Dictamen_CC62-2020_Bison_bonasus.pdf` | `31461c83c2e2ce1f8123fad052d72d7a247fc3edf705f484de6ac217c6f77f56` | 2026-08-02 |
+| N0-002 | PASTRES, "Rewilding and ecosystem restoration: what is natural?" (infosheet 5 of 6, Ian Scoones, 2022) | `12_Referencias/originales/PASTRES_Infosheet_5of6_Rewilding.pdf` | `597f49216fb7b895972cfc9843a17e6d3b1e973a617815731dc350822fa6fd60` | 2026-08-02 |
 
-**Nota de gobernanza:** este sigue siendo el único documento N0 del proyecto tras
-ocho capítulos. Candidatos evidentes para elevar a N0 en próximas sesiones: BOE de
+**Nota de gobernanza:** segundo documento N0 del proyecto (PASTRES infosheet 5/6,
+2026-08-02). Candidatos evidentes para elevar a N0 en próximas sesiones: BOE de
 la Ley 42/2007 y del RD 630/2013 (actualmente N1, verificados pero no descargados
 con hash propio), y el Listado de especies extinguidas de 2018 (BOE-A-2018-11522,
 aún ni siquiera verificado directamente).
@@ -49,6 +58,8 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N2-002 | Bartolomé et al. (2026), Conservation Science and Practice 8(4):e70132 | 10.1111/csp2.70132 | 2026-08-02 |
 | N2-003 | Nores et al. (2026), Conservation Science and Practice 8(4):e70262 | 10.1111/csp2.70262 | 2026-08-02 |
 | N2-004 | D'Amico et al. (2026), Conservation Science and Practice 8(4):e70240 | 10.1111/csp2.70240 | 2026-08-02 |
+| N2-008 | Bartolomé, Cassinello et al. (2024), "Diet comparison between sympatric European bison, red deer and fallow deer in a Mediterranean landscape", Biodiversity and Conservation | `[PENDIENTE]` DOI exacto | 2026-08-03 |
+| N2-009 | Starns et al. (2019), "Recoupling fire and grazing reduces wildland fuel loads on rangelands", Ecosphere | `[PENDIENTE]` DOI exacto | 2026-08-03 |
 | N2-005 | Nogués-Bravo et al. (2016), Current Biology | `[PENDIENTE contraste directo]` | — |
 | N2-006 | Pérez-Barbería, Gómez y Gordon (2023), Ambio | `[PENDIENTE contraste directo]` | — |
 | N2-007 | Grange et al. (2018), *Diversity* 10:65, sobre flujo génico bisonte/uro (citado dentro del dictamen CC 62/2020, N0-001) | 10.3390/d10030065 | Citado vía N0-001, no consultado directamente |
@@ -71,6 +82,9 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | ID | Fuente | Consultado |
 |---|---|---|
 | N5-001 | El Salto, "Sistema Ibérico Sur: objetivo renaturalizar las tierras altas" | 2026-08-02 |
+| N5-009 | El Debate, "Asaja defiende ganadería extensiva como cortafuego natural" (13/08/2025), con réplicas en Forbes España y Agroinformacion | 2026-08-02 |
+| N5-010 | ifomo.es, comunicado UGAM-COAG/ASAJA/UPA/AIGAS Cantabria (21/08/2025) | 2026-08-02 |
+| N5-011 | CLM24, ecoticias.com, El Diario, NuevaAlcarria, okdiario, El Español, Guadared, COPE, GuadalajaraDiario — cobertura de El Recuenco (bisontes, declaraciones alcalde Collada y Nores) | 2026-08-03 |
 | N5-002 | Infobae, hallazgo Sima de Arrafela | 2026-08-02 |
 | N5-003 | Noticias de Navarra / La Brújula Verde, hallazgo Sima de Arrafela (varias piezas) | 2026-08-02 |
 | N5-004 | Mongabay / resilience.org, "Wild horses return to Spain..." (declaración Schapira) | 2026-08-02 |
@@ -81,11 +95,10 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 
 ## N6 — Parte no institucional (agraria, pastoralista, entrevistas de terceros)
 
-`[PENDIENTE]` — ninguna fuente de este nivel ha sido consultada directamente en
-esta sesión. Todas las citas de `04_Marco_Social/` atribuidas a ASAJA, PASTRES
-(contenido de la ficha, no la identidad del proyecto), cabreros de Mallata.com,
-UGAM-COAG/AIGAS, Manzano/Azcárate/Hevia y Resco de Dios permanecen sin verificar
-directamente. Es el nivel con mayor deuda de verificación de todo el proyecto.
+Avance 2026-08-02: Oteros-Rozas (N6) y PASTRES (elevado a N0) verificados. ASAJA y
+UGAM-COAG/AIGAS quedan en N5 (comunicados institucionales, no fuente de parte
+directa). `[PENDIENTE]`: cabreros de Mallata.com, Manzano/Azcárate/Hevia (posición
+general verificada, publicación exacta no) y Resco de Dios.
 
 ## Resumen de cobertura por nivel
 

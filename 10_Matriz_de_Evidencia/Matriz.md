@@ -2,7 +2,15 @@
 tipo: capitulo
 estado: en_redaccion
 version: 0.1
-fecha: 2026-08-02
+fecha: 2026-08-03
+depende_de:
+  - 00_Gobernanza/Criterios_de_Evidencia.md
+---
+---
+tipo: capitulo
+estado: en_redaccion
+version: 0.1
+fecha: 2026-08-03
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
 
@@ -20,12 +28,12 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 
 | Estado | Recuento |
 |---|---|
-| V (verificado) | 26 |
-| P (pendiente) | 19 |
+| V (verificado) | 36 |
+| P (pendiente) | 16 |
 | C (conflicto) | 4 |
 | NL (no localizado) | 9 |
-| I (inferencia) | 4 |
-| **Total AF-### registradas** | **65** |
+| I (inferencia) | 5 |
+| **Total AF-### registradas** | **73** |
 
 ## 02 — Marco Jurídico
 
@@ -62,10 +70,10 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 |---|---|---|---|---|
 | AF-020 | Cita Oteros-Rozas (Revista Soberanía Alimentaria / Rebelión) | N6 | V | §3 |
 | AF-021 | Identidad y financiación PASTRES (ERC 740342, 2.499.126,50€) | N1 | V | §4 |
-| AF-022 | Contenido textual ficha PASTRES 5/6 | N2/N5 | P | §4 |
+| AF-022 | Contenido textual ficha PASTRES 5/6 ("Rewilding and ecosystem restoration: what is natural?") | N0 | V | §4 |
 | AF-023 | Cita cabreros Bueno González/Bardají Cruz (Mallata.com) | N6 | P | §4 |
-| AF-024 | Declaración ASAJA Ávila (El Debate) | N5 | P | §5 |
-| AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS (Europa Press Cantabria) | N5 | P | §5 |
+| AF-024 | Declaración ASAJA Ávila (El Debate, 13/08/2025) | N5 | V | §5 |
+| AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS, "los ganaderos... jardineros del medio rural" (21/08/2025) | N5 | V | §5 |
 | AF-026 | Ausencia de pronunciamiento agrario específico sobre Rewilding Spain | — | NL | §5 |
 | AF-027 | Declaración Saavedra (El País, 19/10/2022) | N4 | P | §7 |
 | AF-028 | Declaración Schapira sobre sustitución funcional (Mongabay) | N4 | I | §7 |
@@ -104,6 +112,14 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 | AF-051 | Cifras y fecha introducción tauros en Mazarete | N4 | P | Tauros §3 |
 | AF-052 | Identidad raza caballo serrano y relación con caballo losino | N4 | V | Serrano §1 |
 | AF-053 | Cifras población caballo serrano en Solanillos (13->38) | N4/N5 | V | Serrano §2 |
+| AF-066 | El Recuenco: 9 bisontes, consorcio Rewilding Spain + Manchester + EHU + ECONOVO/Aarhus | N4/N5 | V | Bisonte §5 |
+| AF-067 | Declaración alcalde Collada: "un 30% de lo que comen es madera" | N4 | V (como declaración; no contrastada contra estudio dietético) | Bisonte §5 |
+| AF-068 | "Comer madera no implica reducir combustible fino clave en grandes incendios" | N5 | V (declaración recogida) / [NO LOCALIZADO] fuente primaria | Bisonte §5 |
+| AF-069 | Nores: riesgo de "parche verde", no sustituye cortafuegos/desbroces/planificación | N2/N5 | V | Bisonte §5 |
+| AF-070 | Bartolomé et al. (2024), Biodiversity and Conservation: 52% componente leñoso en dieta de bisonte, El Encinarejo (Jaén) | N2 | V | Bisonte §6.1 |
+| AF-071 | Mismo Bartolomé (primer autor El Encinarejo) es coautor del comentario 2026 que replica a Nores et al. sobre el bisonte | N2 | V | Bisonte §6.1 |
+| AF-072 | Mecanismo "pyric herbivory": reducción de incendios vía pastoreo de rebrote herbáceo, no consumo de madera (Starns et al. 2019) | N2 | V | Bisonte §6.2 |
+| AF-073 | Conexión "come madera" + "reduce incendios" como posible inferencia no validada específicamente para bisonte | N7 | I | Bisonte §6.2 |
 
 ## 07 — Rewilding Spain vs. Europe
 
