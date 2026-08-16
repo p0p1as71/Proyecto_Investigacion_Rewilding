@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-02
+version: 0.2
+fecha: 2026-08-16
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -30,6 +30,9 @@ ni construida por retrocría. Esto cambia el tipo de pregunta terminológica: no
 biogeográfica, sino "¿es reintroducción o es traslocación de refuerzo dentro de una
 raza en peligro ya existente?".
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 2. El programa en la Dehesa de Solanillos — verificado hoy
 
 Verificado contra Rewilding Spain y prensa regional [N4/N5, consultado 2026-08-02]:
@@ -48,6 +51,9 @@ incendios futuros y su biodiversidad asociada. Declaración institucional (N4) �
 contrastada en esta sesión contra evidencia de seguimiento ecológico independiente
 (mismo bloqueo que en `Tauros.md` y `Caballo_Przewalski.md`).
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 3. Estatus legal — pendiente de verificación directa
 
 `[PENDIENTE verificar hoy]` — no se ha contrastado si el caballo serrano en
@@ -61,6 +67,20 @@ ganaderas en peligro, no bajo legislación de fauna silvestre). Este es el bloqu
 más relevante del capítulo — determina si este caso se parece más al régimen
 "ganado ordinario" (tauros, Przewalski) o si su condición de raza autóctona
 amenazada le abre una vía de protección distinta.
+
+**Avance parcial, no resolutivo, de esta sesión** [N4, consultado 2026-08-16]:
+Rewilding Europe (artículo julio 2026, ya citado en `Bisonte_Europeo.md` §2 y
+`Tauros.md` §2) confirma que la designación de "vivir en condiciones salvajes o
+semisalvajes" reconocida por Castilla-La Mancha en mayo de 2026 cubre 120
+caballos en 4 manadas de Rewilding Spain, sin desglosar el artículo si son
+Przewalski, serranos, o una combinación de ambos. La cifra total (120) es
+compatible aritméticamente con incluir tanto las manadas de Przewalski en
+Villanueva de Alcorón (~42 ejemplares según NuevaAlcarria, dic. 2025) como las de
+serranos en Solanillos (~38-50 según fuentes de 2024-2025), pero esto es una
+inferencia numérica de este informe, no una confirmación directa de que
+Solanillos esté incluido. `[NO LOCALIZADO]` el desglose específico por
+raza/manada de las 4 designadas. El bloqueo principal del capítulo permanece
+abierto.
 
 ## 4. Aplicación de DE-003 y del marco comparativo de `05_Reintroducciones/`
 
@@ -90,7 +110,11 @@ búsqueda más amplia).
 
 ---
 *Bloqueos abiertos: estatus legal exacto en Solanillos (REGA vs. excepción equina
-vs. protección de raza en peligro) sin verificar — bloqueo principal; presencia
-histórica específica en Solanillos sin verificar; búsqueda de uso terminológico
-"reintroducción" no exhaustiva. Quinto archivo de `06_Especies/`, mismo patrón de
-estado mixto que los cuatro anteriores.*
+vs. protección de raza en peligro) sin verificar — bloqueo principal, con avance
+parcial hoy (cifra agregada de 120 caballos/4 manadas reconocidas en CLM,
+desglose por raza no localizado); presencia histórica específica en Solanillos sin
+verificar; búsqueda de uso terminológico "reintroducción" no exhaustiva. Las
+secciones 1 y 2 de este archivo cumplen las condiciones de `verificado` (Criterios
+§10) de forma independiente y llevan anotación formal `> [OK]` (Criterios §15,
+aplicación retroactiva 2026-08-16). Las secciones 3 y 4 permanecen abiertas por
+bloqueos reales, no anotadas.*

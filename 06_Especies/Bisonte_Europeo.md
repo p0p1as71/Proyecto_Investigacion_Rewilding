@@ -1,16 +1,16 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-03
+version: 0.2
+fecha: 2026-08-16
 depende_de:
   - 05_Reintroducciones/Reintroducciones.md
 ---
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-03
+version: 0.2
+fecha: 2026-08-16
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -46,18 +46,29 @@ para esta resolución.
 **Consecuencia jurídica directa:** mientras este dictamen no se revierta mediante
 nueva evidencia sometida al mismo Comité, "reintroducción" de bisonte europeo en
 España no cumple el art. 55 Ley 42/2007 — es jurídicamente una introducción de
-conservación (UICN) o, en términos coloquiales de Rewilding Europe según el informe
-de origen, una especie "actualmente clasificada como no nativa"
-`[PENDIENTE verificar cita textual de Rewilding Europe]`.
+conservación (UICN). **Verificado hoy** [N4, consultado 2026-08-16] contra
+Rewilding Europe, "Making legal room for wild herbivores: opportunities and
+lessons from the Iberian Highlands" (2026-07-07): la cita se confirma tal cual —
+"European bison [...] in Spain, they are currently classified as non-native
+animals and are generally managed under livestock regulations" — aunque son
+elegibles para gestión bajo el marco de núcleo zoológico por estar catalogados
+como especie de interés comunitario, con autorización caso por caso, limitada en
+el tiempo y sujeta a condiciones regulatorias significativas.
 
-**Matiz sobre legalidad del recinto (según el informe de origen, `[PENDIENTE
-verificar hoy]`):** el propio Carlos Nores habría reconocido que el recinto cerrado
-de El Recuenco es legal precisamente porque los animales se mantienen controlados y
-bajo vigilancia veterinaria — lo no legal sería su liberación libre en el medio
-natural. Aplicando el principio de simetría (Criterios §11): esto significa que la
-crítica sólida no es que el proyecto sea ilegal, sino que es lícito exactamente
-porque los animales son jurídicamente ganado, mientras la comunicación pública los
-presenta en otros términos.
+**Matiz sobre legalidad del recinto — verificado hoy** [N5, consultado
+2026-08-16] contra Infobae (2026-06-06) y confirmado en okdiario/eldiario.es
+(junio 2026): Carlos Nores, principal firmante del estudio de 2024, matiza
+explícitamente que el proyecto de El Recuenco **sí está permitido** porque los
+animales se mantienen en un recinto cerrado bajo control y vigilancia
+veterinaria; lo que no sería legal, según su declaración, es soltarlos para que
+vivan libremente en la naturaleza. Aplicando el principio de simetría (Criterios
+§11): esto confirma que la crítica sólida de Nores no es que el proyecto sea
+ilegal, sino que es lícito exactamente porque los animales son jurídicamente
+ganado controlado, mientras la comunicación pública los presenta en otros
+términos (renaturalización, "bisontes bomberos").
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
 
 ## 3. Debate académico — verificado (`03_Marco_Cientifico/` §3)
 
@@ -73,6 +84,11 @@ Cuatro piezas en *Conservation Science and Practice*, todas con DOI verificado h
 `[CONFLICTO N2]` — este informe describe las cuatro posiciones sin arbitrar
 (Criterios §4). No hay consenso posterior documentado que permita cerrar el
 conflicto biogeográfico/bioclimático central (Nores vs. Bartolomé).
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente. El conflicto documentado no es un bloqueo de verificación
+> (Criterios §4, DE-005): se describe sin dictaminar, condición que la sección
+> ya satisface.
 
 ## 4. Hallazgo de la Sima de Arrafela — verificado hoy, con matiz no recogido en el informe de origen
 
@@ -149,6 +165,26 @@ por tanto, en el mismo estatus que el resto del proyecto: declarada por la
 organización promotora (N4) y por el alcalde (N4), matizada por el crítico
 académico ya identificado (N2/N5), sin evaluación independiente publicada que
 la confirme o refute.
+
+**Precedente citado por Nores, hallazgo nuevo de esta sesión** [N5, consultado
+2026-08-16, vía Infobae 2026-06-06]: Nores cuestiona la utilidad del bisonte
+contra incendios apoyándose en la experiencia previa de la Sierra de Andújar
+(Jaén — la misma finca de El Encinarejo del estudio de Bartolomé et al. citado
+en §6.1), donde según su declaración los bisontes consumieron menos materia
+leñosa que los ciervos presentes y no evitaron que ardiera más de un tercio de
+la finca. Nores también matiza —mismo consultado— que no se opone a la
+experimentación científica en sí, pero señala que El Recuenco sería el
+experimento número 18 de este tipo en Europa y que al menos cinco anteriores
+terminaron con la muerte de la totalidad o mayoría de los bisontes. Este dato
+conecta directamente con el estudio ya verificado en §6.1 (mismo lugar, mismos
+bisontes, distinto énfasis) — Nores usa la comparación interespecífica
+(bisonte vs. ciervo) del propio Bartolomé et al. como argumento crítico, lo cual
+no contradice el dato del 52% de componente leñoso en la dieta del bisonte,
+pero sí matiza que un porcentaje alto de biomasa leñosa en la dieta no impidió
+un incendio extenso en el mismo lugar.
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
 
 ## 6. Verificación científica de la afirmación "30% madera" — profundizado hoy
 
@@ -243,21 +279,25 @@ general, no específicamente sobre *Bison bonasus*).
 
 ## 8. Afirmaciones pendientes de incorporar a la Matriz
 
-`[TODO]`: AF-### para cada fila de la tabla §5 (algunas ya verificadas, listas para
-incorporar directamente; otras pendientes de la datación exacta de *B. priscus* y de
-la cita textual de Rewilding Europe sobre estatus "no nativo"). AF-### nuevas para
-El Recuenco (§5 y §6 ampliada): cifra de 9 bisontes y consorcio investigador
-(verificado, listo); declaración "30% madera" (verificado como declaración, listo);
-matiz "combustible fino" (N5, fuente no identificada, listo con marcador `[NO
-LOCALIZADO]`); declaraciones de Nores sobre "parche verde" (verificado, listo).
+`[TODO]`: AF-### para cada fila de la tabla §7 (algunas ya verificadas, listas
+para incorporar directamente; otras pendientes de la datación exacta de
+*B. priscus*). AF-### nuevas para El Recuenco (§5 y §6 ampliada): cifra de 9
+bisontes y consorcio investigador (verificado, listo); declaración "30% madera"
+(verificado como declaración, listo); matiz "combustible fino" (N5, fuente no
+identificada, listo con marcador `[NO LOCALIZADO]`); declaraciones de Nores
+sobre "parche verde" (verificado, listo); precedente Sierra de Andújar citado
+por Nores (verificado hoy, listo); cita Rewilding Europe sobre estatus "no
+nativo" (verificada hoy, listo); matiz de Nores sobre legalidad del recinto
+(verificado hoy, listo).
 
 ---
-*Bloqueos abiertos: datación exacta *B. priscus* sin contrastar; cita de Rewilding
-Europe sin contrastar; declaración de Nores sobre legalidad *del recinto* de El
-Recuenco (distinta de sus declaraciones sobre riesgo de "parche verde", ya
-verificadas hoy) sin contrastar; resultado genético de Arrafela no publicado aún
-(`[NO LOCALIZADO]`, no bloqueo de verificación sino ausencia real de dato); fuente
-primaria del matiz "combustible fino" sin identificar. Secciones 2, 3 y 5 de este
-archivo sí cumplen las condiciones de `verificado` (Criterios §10) de forma
-independiente — ver nota pendiente en `05_Reintroducciones/` sobre cierre parcial
-por sección.*
+*Bloqueos abiertos: datación exacta *B. priscus* sin contrastar; resultado
+genético de Arrafela no publicado aún (`[NO LOCALIZADO]`, no bloqueo de
+verificación sino ausencia real de dato); fuente primaria del matiz
+"combustible fino" sin identificar (Guadared no cita autor u obra). Secciones
+2, 3 y 5 de este archivo cumplen las condiciones de `verificado` (Criterios
+§10) de forma independiente y llevan anotación formal `> [OK]` (Criterios §15,
+aplicación retroactiva 2026-08-16) — sus AF-### pueden incorporarse a la
+Matriz con estado V aunque el archivo completo permanezca en `en_redaccion`
+mientras persistan los bloqueos de §1, §4 y §6 (datación B. priscus,
+resultado Arrafela, fuente combustible fino).*

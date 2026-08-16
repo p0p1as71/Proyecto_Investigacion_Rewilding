@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-02
+version: 0.2
+fecha: 2026-08-16
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -33,6 +33,9 @@ mantiene poblaciones reproductoras en otras zonas de España (p. ej. Extremadura
 Monfragüe), como evidencia el propio seguimiento GPS de ejemplares que se desplazan
 entre Monfragüe y el Sistema Ibérico (caso "Beatriz", GREFA).
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 2. Encaje legal — análisis, marcado `[INFERENCIA]`
 
 `[INFERENCIA]`: dado que el buitre negro **no está extinguido en el conjunto del
@@ -48,6 +51,18 @@ localizada en fuente N0-N3; `[PENDIENTE]` verificar si existe una resolución
 administrativa que fije expresamente bajo qué figura legal opera el programa (art.
 55, art. 56 Listado de Protección Especial, o normativa autonómica de recuperación
 de especies amenazadas).
+
+**Contexto normativo de apoyo — verificado hoy** [N1, consultado 2026-08-16]
+contra RD 139/2011, de 4 de febrero (BOE-A-2011-3582), art. 3 letra d): la norma
+distingue expresamente "las condiciones técnicas necesarias para la
+reintroducción de especies extinguidas **y el reforzamiento de poblaciones**"
+como dos figuras separadas — confirma que existe en el ordenamiento español una
+categoría jurídica distinta de la reintroducción del art. 55, aplicable a casos
+como este. No se ha localizado, sin embargo, la resolución administrativa
+concreta que declare expresamente bajo esta figura el programa del Sistema
+Ibérico Sur — el `[PENDIENTE]` original se mantiene para ese documento
+específico, aunque ahora con la base normativa general ya identificada y
+archivable como N1.
 
 **Consecuencia para el Glosario y para `05_Reintroducciones/`:** el informe de
 origen calificaba este caso como "el único liderado por la Administración y con uso
@@ -71,6 +86,9 @@ sitúa el caso del Sistema Ibérico Sur dentro de un patrón más amplio de recu
 de la especie a escala ibérica y europea, no como iniciativa aislada de Rewilding
 Spain.
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 4. Síntesis aplicando el principio de simetría (Criterios §11)
 
 | Afirmación | Quién la sostiene | Nivel | Estado |
@@ -89,9 +107,13 @@ adicional antes de tratarse como hallazgo firme); AF-### para la declaración so
 cadena trófica (N4, pendiente de contrastar con datos de seguimiento).
 
 ---
-*Bloqueos abiertos: encaje legal exacto del programa sin verificar contra resolución
-administrativa (`[PENDIENTE]`); declaración sobre cadena trófica sin contrastar
-contra evidencia de seguimiento poblacional. La sección 1 (identidad del programa,
-cifras, actores) cumple las condiciones de `verificado` de forma independiente —
-mismo patrón de estado mixto señalado en `Bisonte_Europeo.md`, pendiente de
-decisión editorial sobre cierre parcial.*
+*Bloqueos abiertos: resolución administrativa concreta que fije la figura legal
+exacta del programa (refuerzo poblacional vs. otra vía) sin localizar, aunque ya
+identificada la base normativa general (RD 139/2011 art. 3.d); declaración sobre
+cadena trófica sin contrastar contra evidencia de seguimiento poblacional.
+Secciones 1 y 3 (identidad del programa, cifras, actores, comparación con otros
+programas) cumplen las condiciones de `verificado` (Criterios §10) de forma
+independiente y llevan anotación formal `> [OK]` (Criterios §15, aplicación
+retroactiva 2026-08-16). La sección 2 permanece abierta por el `[PENDIENTE]` real
+señalado arriba — no se le aplica anotación `> [OK]` aunque el análisis se haya
+reforzado hoy con contexto normativo N1.*

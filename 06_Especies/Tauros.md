@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-02
+version: 0.2
+fecha: 2026-08-16
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -32,6 +32,9 @@ estuvo allí en esa forma genética concreta. Es, por definición, una sustituci
 ecológica (*ecological replacement* UICN), nunca una reintroducción en sentido
 UICN ni en sentido del art. 55 Ley 42/2007.
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 2. Estatus legal — verificado, con detalle no recogido en el informe de origen
 
 **Confirmado el texto citado en el informe de origen:** un artículo de Rewilding
@@ -49,8 +52,17 @@ bajo la legislación de naturaleza de la UE y considerarse especie silvestre a e
 efecto, seria posible gestionarlos mediante el marco español de **núcleo
 zoológico** —diseñado para conservación, cría y fines de investigación científica,
 no para producción ganadera— como vía alternativa al régimen de producción.
-`[PENDIENTE]` verificar si este marco de núcleo zoológico se aplica de hecho a los
-ejemplares del Sistema Ibérico Sur, o si sigue siendo una posibilidad no ejercida.
+**Verificado hoy** [N4, consultado 2026-08-16] contra la versión actualizada
+(2026-07-07) del mismo artículo de Rewilding Europe: la única designación formal
+efectivamente conseguida hasta la fecha en el Sistema Ibérico Sur es la de los
+caballos —4 manadas (120 ejemplares) reconocidas por Castilla-La Mancha en mayo
+de 2026 como viviendo en condiciones salvajes o semisalvajes, tras un proceso de
+20 meses, aún pendiente de reconocimiento por la Comisión Europea—, una figura
+distinta del núcleo zoológico. No se ha localizado confirmación de que el marco
+de núcleo zoológico se haya aplicado de hecho a los tauros ni al bisonte del
+Sistema Ibérico Sur; el propio artículo lo describe como posibilidad legal, no
+como hecho consumado. `[NO LOCALIZADO]` aplicación efectiva — se mantiene la
+distinción entre "posible bajo la ley" y "aplicado en la práctica".
 
 El mismo artículo señala que la legislación actual trata a caballos y bóvidos
 (tauros, bisonte europeo) de forma separada, tanto en España como en otros países
@@ -58,13 +70,29 @@ europeos, lo que impide que manadas mixtas operen bajo una única designación
 silvestre o semisilvestre — un obstáculo estructural que la propia Rewilding
 Europe reconoce y por el que aboga activamente ante las administraciones.
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 3. Presencia en el Sistema Ibérico Sur
 
 Verificado (Global Rewilding Alliance, consultado 2026-08-02) [N4]: se han
 registrado nacimientos de tauros en Mazarete (Guadalajara), citados como señal de
-buena adaptación al territorio. `[PENDIENTE verificar hoy]` cifra total de
-ejemplares y fecha de introducción inicial en el Sistema Ibérico Sur — no
-contrastada directamente en esta sesión.
+buena adaptación al territorio. **Cifra y fecha — verificado hoy** [N4, consultado
+2026-08-16] contra Rewilding Spain y Rewilding Europe: la manada de referencia en
+la Dehesa de Solanillos, Mazarete, consta de **10 tauros (8 hembras, 2 machos)**,
+liberados hacia finales de julio de 2023 tras tres semanas de adaptación en
+cercado, sobre un territorio de 1.485 hectáreas ya compartido con la manada de
+caballos serranos. Según Rewilding Europe la propia fuente la describe como
+"segunda manada de tauros" en el Sistema Ibérico Sur —lo que implica una primera
+liberación anterior no cuantificada en las fuentes consultadas hoy,
+`[NO LOCALIZADO]`—. La manada ha crecido posteriormente con el nacimiento de al
+menos 2 terneros (comunicado de Rewilding Spain sin fecha exacta), alcanzando 12
+ejemplares en el momento de ese anuncio.
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente. El hueco sobre la "primera manada" queda marcado
+> `[NO LOCALIZADO]`, no bloquea el cierre de esta sección sobre la manada de
+> referencia ya cuantificada.
 
 ## 4. Aplicación de DE-003 y del marco comparativo de `05_Reintroducciones/`
 
@@ -97,14 +125,18 @@ simetría (Criterios §11), esta conclusión no depende de una posición crític
 ## 6. Afirmaciones pendientes de incorporar a la Matriz
 
 `[TODO]`: AF-### para naturaleza de retrocría y extinción del uro (verificado,
-listo); AF-### para estatus legal ganado + no autóctono (verificado, listo); AF-###
-para marco de núcleo zoológico como alternativa no confirmada (pendiente); AF-###
-para cifras y fecha de introducción en Mazarete (pendiente).
+listo); AF-### para estatus legal ganado + no autóctono (verificado, listo);
+AF-### para marco de núcleo zoológico como posibilidad legal no confirmada como
+aplicada (verificado hoy como `[NO LOCALIZADO]`, listo); AF-### para cifra (10,
+luego 12) y fecha (julio 2023) de introducción en Mazarete (verificado hoy,
+listo).
 
 ---
-*Bloqueos abiertos: cifra y fecha de introducción en Sistema Ibérico Sur sin
-verificar; aplicación efectiva (o no) del marco de núcleo zoológico sin verificar;
-uso explícito o no del término "reintroducción" para tauros por parte de Rewilding
-Spain/Europe sin localizar. Cuarto y último capítulo de especie con el mismo patrón
-de estado mixto — pendiente la decisión editorial sobre cierre parcial, ya
-planteada en los tres anteriores.*
+*Bloqueos abiertos: cuantificación de la primera manada de tauros del Sistema
+Ibérico Sur, anterior a la de 10 ejemplares de julio 2023 (`[NO LOCALIZADO]`,
+mención indirecta vía "segunda manada" sin cifra propia localizada); uso
+explícito o no del término "reintroducción" para tauros por parte de Rewilding
+Spain/Europe sin localizar (ya marcado `[NO LOCALIZADO]` en §5, no bloqueo de
+verificación). Las secciones 1, 2 y 3 de este archivo cumplen las condiciones de
+`verificado` (Criterios §10) de forma independiente y llevan anotación formal
+`> [OK]` (Criterios §15, aplicación retroactiva 2026-08-16).*

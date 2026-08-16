@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.5
+version: 0.6
 fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.5
+version: 0.6
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -44,9 +44,10 @@ aún ni siquiera verificado directamente).
 | N1-003 | Ley 42/2007, art. 55.1 | BOE | 2026-08-02 |
 | N1-004 | RD 630/2013, disposición adicional segunda | BOE | 2026-08-02 |
 | N1-005 | IUCN/SSC Guidelines for Reintroductions and Other Conservation Translocations (2012/2013) | IUCN/SSC, portals.iucn.org | 2026-08-02 |
+| N1-006 | BOE-A-2018-11522, Listado de especies extinguidas en todo el medio natural español (Resolución 1/08/2018) — contenido íntegro verificado: 32 especies (19 plantas, 3 mamíferos, 2 peces, 8 aves); mamíferos: lince europeo, foca monje del Mediterráneo, ballena franca | BOE | 2026-08-16 |
+| N1-007 | RD 139/2011, de 4 de febrero (BOE-A-2011-3582), art. 3.d) — distingue reintroducción de especies extinguidas y "reforzamiento de poblaciones" como figuras separadas | BOE | 2026-08-16 |
 
-`[PENDIENTE]`: art. 3.22 bis Ley 42/2007 (definición de "introducción"); contenido
-íntegro del Listado de especies extinguidas 2018 (BOE-A-2018-11522); sentencia del
+`[PENDIENTE]`: art. 3.22 bis Ley 42/2007 (definición de "introducción"); sentencia del
 Tribunal Supremo sobre caballos en libertad, Galicia; resolución administrativa de
 Castilla-La Mancha sobre estatus semisilvestre equino.
 
@@ -77,6 +78,7 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N4-007 | Taurus Foundation / Tauros Programme, web propia | 2026-08-02 |
 | N4-008 | CORDIS (Comisión Europea), ficha PASTRES, grant 740342 | 2026-08-02 |
 | N4-009 | Mongabay, "Rewilding project aims to restore resilience to fire-prone Spain via wildlife" (Jeremy Hance, agosto 2025), cita textual de Pablo Schapira atribuida a Rewilding Spain | 2026-08-16 |
+| N4-010 | Rewilding Europe, "Making legal room for wild herbivores: opportunities and lessons from the Iberian Highlands" (2026-07-07) — clasificación "no nativo" del bisonte en España; estatus legal de tauros; 4 manadas de caballos (120 ejemplares) reconocidas por CLM en mayo 2026 como salvajes/semisalvajes, sin desglose por raza | 2026-08-16 |
 
 ## N5 — Prensa
 
@@ -97,6 +99,8 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N5-013 | The Conversation ES, Azcárate/Manzano/Hevia, "¿Es la ganadería extensiva incompatible con la renaturalización?" (2023-07-19) | 2026-08-03 |
 | N5-014 | Manzano/Azcárate/Hevia (2024), UPA Anuario 2024, pp. 188-193 — existencia y venue confirmados vía bibliografía propia del autor (sites.google.com/site/pablomanzanobaena); PDF en `upa.es` bloquea acceso automatizado (robots.txt), texto íntegro `[NO LOCALIZADO]` | 2026-08-03 |
 | N5-015 | Europa Press / El Español (ed. Castilla-La Mancha) / Diario de Cuenca / Hospedería del Seminario — cobertura de la presentación "The Iberian Highlands" en Cuenca (2022-10-19), declaraciones de Deli Saavedra (Rewilding Europe); pieza de El País citada por el informe de origen para esta misma fecha `[NO LOCALIZADO]` | 2026-08-16 |
+| N5-016 | Infobae, "Introducen nueve bisontes en un pueblo de Guadalajara..." (2026-06-06); okdiario, "Nueve bisontes para limpiar monte en El Recuenco..." (2026-06-11); eldiario.es, "Un pueblo de Guadalajara apuesta por nueve bisontes..." (2026-06-24) — declaraciones de Carlos Nores sobre legalidad del recinto y precedente Sierra de Andújar | 2026-08-16 |
+| N5-017 | eldecanodeguadalajara.com / rewildingeurope.com / rewilding-spain.com — cifra y fecha de introducción de tauros en Dehesa de Solanillos, Mazarete (10 ejemplares, julio 2023; crecimiento posterior a 12) | 2026-08-16 |
 
 ## N6 — Parte no institucional (agraria, pastoralista, entrevistas de terceros)
 
@@ -119,10 +123,10 @@ cobertura de este documento era imprecisa y se corrige aquí.
 | Nivel | Fuentes registradas | Estado general |
 |---|---|---|
 | N0 | 1 | Único documento con archivo propio + hash |
-| N1 | 5 verificadas + 4 pendientes | Núcleo jurídico sólido; huecos puntuales |
+| N1 | 7 verificadas + 2 pendientes | Núcleo jurídico sólido; huecos puntuales |
 | N2 | 6 verificadas + 1 citada indirectamente | Debate del bisonte bien cubierto; Nogués-Bravo y Pérez-Barbería pendientes |
-| N4 | 9 fuentes institucionales agrupadas | Buena cobertura, sin contraste independiente por diseño (Criterios §1) |
-| N5 | 13 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
+| N4 | 10 fuentes institucionales agrupadas | Buena cobertura, sin contraste independiente por diseño (Criterios §1) |
+| N5 | 16 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
 | N6 | 1 | Deuda de verificación N6 sustancialmente reducida (cabreros Mallata.com cerrado); resto de la deuda histórica reclasificada a N5 tras revisión de esta sesión |
 | N7 | No aplica (no son fuentes, son interpretaciones marcadas `[INFERENCIA]` en cada capítulo) | — |
 

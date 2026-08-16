@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.4
+version: 0.5
 fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.4
+version: 0.5
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -28,10 +28,10 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 
 | Estado | Recuento |
 |---|---|
-| V (verificado) | 41 |
-| P (pendiente) | 13 |
+| V (verificado) | 46 |
+| P (pendiente) | 8 |
 | C (conflicto) | 5 |
-| NL (no localizado) | 10 |
+| NL (no localizado) | 11 |
 | I (inferencia) | 5 |
 | **Total AF-### registradas** | **75** |
 
@@ -57,7 +57,7 @@ actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073.*
 | AF-004 | Art. 55.1 Ley 42/2007: reintroducción solo de especies autóctonas extinguidas | N1 | V | §4 |
 | AF-005 | RD 630/2013 D.A. 2ª: asilvestrados como especies exóticas invasoras | N1 | V | §4 |
 | AF-006 | Inscripción REGA de animales de rewilding | N2 | P | §3 |
-| AF-007 | Contenido exacto del Listado de especies extinguidas 2018 | N2 | P | §4 |
+| AF-007 | Contenido exacto del Listado de especies extinguidas 2018 | N1 | V (verificado hoy vía `Caballo_Przewalski.md` §2, en sesión sobre 06_Especies — pendiente reflejar aquí en su propia sesión de Marco_Juridico: 32 especies, 3 mamíferos —lince europeo, foca monje, ballena franca—, ninguna coincide con Przewalski/bisonte/tauros) | §4 |
 | AF-008 | Sentencia Tribunal Supremo caballos en libertad, Galicia | N2 | P | §6 |
 | AF-009 | Resolución administrativa Castilla-La Mancha, estatus semisilvestre (120 caballos/4 manadas) | N4/N5 | NL | §5 |
 
@@ -110,8 +110,8 @@ actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073.*
 | AF | Afirmación | Nivel | Estado | Cap. |
 |---|---|---|---|---|
 | AF-037 | Datación exacta *B. priscus* (13.424-13.766 años cal BP) | N2 | P | Bisonte §1 |
-| AF-038 | Cita Rewilding Europe sobre estatus "no nativo" del bisonte | N4 | P | Bisonte §2 |
-| AF-039 | Declaración Nores sobre legalidad del recinto de El Recuenco | N2/N5 | P | Bisonte §2 |
+| AF-038 | Cita Rewilding Europe sobre estatus "no nativo" del bisonte | N4 | V (verificada hoy, cita textual confirmada) | Bisonte §2 |
+| AF-039 | Declaración Nores sobre legalidad del recinto de El Recuenco | N2/N5 | V (verificada hoy vía Infobae) | Bisonte §2 |
 | AF-040 | Cifra 37 buitres negros liberados desde 2020 | N4 | V | Buitre §1 |
 | AF-041 | Atribución institucional Junta CLM + Rewilding Spain + Terra Naturalis (buitre) | N4 | V | Buitre §1 |
 | AF-042 | Encaje legal buitre negro: extirpación regional, no extinción nacional | N7 | I | Buitre §2 |
@@ -122,8 +122,8 @@ actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073.*
 | AF-047 | Rol ecológico equivalente Przewalski/caballo ibérico extinto | N4 | P | Przewalski §2 |
 | AF-048 | Retrocría del tauros, extinción del uro en 1627 | N4 | V | Tauros §1 |
 | AF-049 | Estatus legal tauros: ganado + no autóctono en España | N4 | V | Tauros §2 |
-| AF-050 | Marco de núcleo zoológico como alternativa no confirmada (tauros) | N4 | P | Tauros §2 |
-| AF-051 | Cifras y fecha introducción tauros en Mazarete | N4 | P | Tauros §3 |
+| AF-050 | Marco de núcleo zoológico como alternativa no confirmada como aplicada (tauros) | N4 | V — confirmado como posibilidad legal no aplicada, `[NO LOCALIZADO]` aplicación efectiva | Tauros §2 |
+| AF-051 | Cifras y fecha introducción tauros en Mazarete (10, jul. 2023, luego 12) | N4 | V (verificada hoy) | Tauros §3 |
 | AF-052 | Identidad raza caballo serrano y relación con caballo losino | N4 | V | Serrano §1 |
 | AF-053 | Cifras población caballo serrano en Solanillos (13->38) | N4/N5 | V | Serrano §2 |
 | AF-066 | El Recuenco: 9 bisontes, consorcio Rewilding Spain + Manchester + EHU + ECONOVO/Aarhus | N4/N5 | V | Bisonte §5 |

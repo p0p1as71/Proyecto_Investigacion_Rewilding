@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.6
+version: 0.7
 fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -12,7 +12,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.6
+version: 0.7
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md", "00_Gobernanza/Glosario.md", "00_Gobernanza/Decisiones_Editoriales.md", "00_Gobernanza/Convenciones_de_Redaccion.md"]
 ---
@@ -104,6 +104,7 @@ estatus semisilvestre.
 | 2026-08-03 | Marco_Social + Matriz + Referencias                | Cierre de 3 deudas N6 señaladas por Popi: cabreros Mallata.com (V, `[ATRIBUCIÓN NO DISTINGUIBLE]`), Manzano/Azcárate/Hevia — UPA Anuario 2024 (V bibliográfico / NL texto íntegro por robots.txt), Resco de Dios RTVE 03/12/2022 (V). AF-023 P->V; AF-019 P->`[CONFLICTO N2]` (Criterios §4, DE-005); AF-023-b y AF-023-c añadidas a la Matriz. N6 reclasificado: Manzano/Azcárate/Hevia y Resco de Dios movidos de N6 a N5 (son N2 vía prensa/divulgación, no fuente de parte no institucional) | Sesión dirigida por Popi; desincronización texto-Matriz en §4/§5 de Marco_Social detectada y anotada, no corregida (fuera de alcance de esta sesión) |
 | 2026-08-16 | Marco_Social + Matriz + Referencias                | Cierre de Saavedra/Schapira (§7): cita de Schapira (Mongabay, agosto 2025) confirmada textual — "nadie quiere seguir con la ganadería extensiva..."; atribución a Rewilding Spain explícita en fuente. Saavedra: sustancia verificada vía Europa Press/prensa regional (evento Cuenca 2022-10-19), pieza específica de El País citada por informe de origen `[NO LOCALIZADO]` (DE-006). AF-027 P->V; AF-028 I->V+I (cita V, lectura sigue marcada inferencia). `04_Marco_Social/Marco_Social.md` queda sin afirmaciones sustantivas en estado P | Continuación de la sesión de cierre de deudas N6; commit de la sesión anterior confirmado en GitHub (`p0p1as71/Proyecto_Investigacion_Rewilding`, main) antes de empezar esta ronda |
 | 2026-08-16 | Marco_Social + Matriz                              | Resuelta la desincronización texto-Matriz de §4/§5 señalada en la sesión anterior: PASTRES ficha 5/6 (§4) y ASAJA Ávila/UGAM-COAG-ASAJA-UPA-AIGAS (§5) re-verificados directamente contra fuente primaria (PDF PASTRES; El Debate/Forbes/Agroinformación; ifomo.es), no solo aceptado el `V` que ya constaba en la Matriz desde 2026-08-02. Sin discrepancias materiales encontradas. AF-022/AF-024/AF-025 anotadas como re-verificadas | Cierra la tercera y última de las tres rondas de deudas N6/desincronización de `Marco_Social.md` de esta serie de sesiones; commit `793385b` confirmado en GitHub antes de empezar |
+| 2026-08-16 | 06_Especies/ (5 archivos) + Matriz + Referencias   | Aplicación retroactiva de Criterios §15: anotaciones formales `> [OK] Sección verificada...` añadidas a las secciones que ya cumplían condiciones de `verificado` (Criterios §10) de forma independiente — Bisonte_Europeo §2/§3/§5; Buitre_Negro §1/§3; Caballo_Przewalski §1/§2/§3; Tauros §1/§2/§3; Caballo_Serrano §1/§2 (13 secciones en total). Al revisar cada archivo para aplicar la anotación, se detectó que varios pies de página reclamaban cierre de secciones que en realidad contenían `[PENDIENTE]` sin resolver — no se aplicó `> [OK]` a ciegas; se verificaron esos `[PENDIENTE]` directamente antes de decidir. Resueltos en el proceso: cita Rewilding Europe "no nativo" bisonte (AF-038), legalidad del recinto de El Recuenco según Nores (AF-039, vía Infobae/okdiario/eldiario.es), contenido íntegro del Listado de especies extinguidas 2018 (AF-007, cross-referencia con `02_Marco_Juridico/`, no editado hoy), aplicación del marco de núcleo zoológico a tauros (AF-050, resuelto como NL), cifra y fecha de introducción de tauros en Mazarete (AF-051). Buitre_Negro §2 y Caballo_Serrano §3/§4 permanecen sin anotación — bloqueos reales, no resueltos, no forzado el cierre | Sesión dirigida por Popi ("vamos" / "Continuar"); nuevas fuentes archivadas: BOE-A-2018-11522 (N1-006), RD 139/2011 (N1-007), Rewilding Europe "Making legal room..." (N4-010), Infobae/okdiario/eldiario.es sobre Nores-El Recuenco (N5-016), fuentes tauros Mazarete (N5-017) |
 
 **Decisión editorial pendiente, señalada repetidamente y aún sin resolver:** si un
 archivo `.md` puede cerrarse `verificado` por secciones (estado mixto) en lugar de

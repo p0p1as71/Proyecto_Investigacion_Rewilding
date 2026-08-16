@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
-fecha: 2026-08-02
+version: 0.2
+fecha: 2026-08-16
 depende_de: ["05_Reintroducciones/Reintroducciones.md"]
 ---
 
@@ -31,6 +31,9 @@ el informe de origen de este proyecto:
 Mongabay/resilience.org, con la manada de Villanueva de Alcorón descrita como la
 mayor del sur de Europa según Global Rewilding Alliance.
 
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
+
 ## 2. Uso del término "reintroducción" — verificado
 
 **Confirmado el título citado en el informe de origen:** ELSP publicó el artículo
@@ -52,7 +55,7 @@ sino que cumpliría el mismo rol ecológico que el extinto caballo salvaje ibér
 |---|---|
 | UICN — ¿dentro del área de distribución natural de *la subespecie*? | No: *E. f. przewalskii* es de origen asiático (estepas de Mongolia), sin presencia histórica ibérica documentada |
 | UICN — ¿aplicaría entonces como introducción de conservación (sustitución ecológica)? | Coherente con la propia justificación de Rewilding Spain: sustituto funcional de un caballo salvaje ibérico ya extinto, no reintroducción del mismo taxón |
-| Ley 42/2007 art. 55 — ¿especie autóctona extinguida? | No: ni el taxón liberado es autóctono, ni consta en el Listado de especies extinguidas de 2018 (`[PENDIENTE verificar directamente el contenido íntegro del Listado]`) |
+| Ley 42/2007 art. 55 — ¿especie autóctona extinguida? | No: ni el taxón liberado es autóctono, ni consta en el Listado de especies extinguidas de 2018 — **verificado hoy directamente contra el contenido íntegro** (BOE-A-2018-11522, consultado 2026-08-16): la lista contiene 32 especies (19 plantas, 3 mamíferos, 2 peces de río, 8 aves); los tres únicos mamíferos son lince europeo (*Lynx lynx*), foca monje del Mediterráneo (*Monachus monachus*) y ballena franca (*Eubalaena glacialis*). *Equus ferus przewalskii* no figura |
 | Uso comunicativo | "Reintroducido" — término verificado, usado de forma consistente por Rewilding Spain, Rewilding Europe y ELSP |
 
 **Conclusión aplicando DE-003:** el uso de "reintroducción" para el caballo de
@@ -63,6 +66,9 @@ estuvo presente en Iberia, en el caso de Przewalski no hay controversia académi
 correcto en sentido UICN sería "introducción de conservación" o "sustitución
 ecológica", categorías que la propia justificación de Rewilding Spain describe en
 sustancia (rol ecológico equivalente) sin usar la etiqueta jurídicamente precisa.
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
 
 ## 3. Estatus legal — confirmación directa de clasificación como ganado
 
@@ -80,6 +86,9 @@ Rewilding Spain declara además, según la misma fuente, derechos de pastoreo so
 de impacto sobre 850.000 hectáreas del paisaje Sistema Ibérico Sur —cifra que
 coincide con la superficie ya citada en el informe de origen para el conjunto del
 proyecto Iberian Highlands.
+
+> [OK] Sección verificada 2026-08-16 — cumple condiciones §10 de forma
+> independiente.
 
 ## 4. Síntesis aplicando el principio de simetría (Criterios §11)
 
@@ -99,9 +108,11 @@ AF-### para el rol ecológico equivalente (N4, pendiente de contraste con eviden
 de seguimiento).
 
 ---
-*Bloqueos abiertos: contenido íntegro del Listado de especies extinguidas 2018 sin
-verificar directamente (comparte bloqueo con `02_Marco_Juridico/`); evidencia de
-seguimiento independiente sobre impacto ecológico sin contrastar. Las secciones 1, 2
-y 3 de este archivo cumplen razonablemente las condiciones de `verificado` de forma
-independiente — tercer caso con el mismo patrón de estado mixto señalado en
-Bisonte_Europeo.md y Buitre_Negro.md.*
+*Bloqueos abiertos: evidencia de seguimiento independiente sobre impacto ecológico
+(rol equivalente al caballo salvaje ibérico extinto) sin contrastar. El bloqueo
+sobre el Listado de especies extinguidas 2018 queda cerrado hoy — verificado
+directamente, comparte hallazgo con `02_Marco_Juridico/` (AF-007, pendiente de
+actualizar ahí en su propia sesión). Las secciones 1, 2 y 3 de este archivo
+cumplen las condiciones de `verificado` (Criterios §10) de forma independiente y
+llevan anotación formal `> [OK]` (Criterios §15, aplicación retroactiva
+2026-08-16).*

@@ -1,8 +1,8 @@
 ---
 tipo: gobernanza
 estado: cerrado
-version: 0.4
-fecha: 2026-08-02
+version: 0.5
+fecha: 2026-08-16
 depende_de: []
 ---
 
@@ -19,6 +19,13 @@ sustituido el estado binario por flujo editorial de cinco fases (§10).
 de actualización, con fecha de consulta y fecha de archivado obligatorias); añadida
 §14 (resolución de la dependencia circular con el Glosario); remitido el estilo a
 `00_Gobernanza/Convenciones_de_Redaccion.md` (§8).
+
+**Cambios v0.4 -> v0.5:** §15 (cierre parcial por sección) actualizada — nota de
+"aplicación retroactiva pendiente" sustituida por "aplicación retroactiva
+completada 2026-08-16", tras aplicar formalmente las anotaciones `> [OK]` a los 5
+archivos de `06_Especies/`. Cambio de constatación, no de regla — no requiere
+revisión de coherencia en otros capítulos `cerrado` (ninguno de los cerrados usa
+§15).
 
 ---
 
@@ -258,10 +265,15 @@ final de cada apartado (`##`) que esté listo:
   (§10) ni el flujo completo hacia `cerrado`, que sigue siendo responsabilidad de
   Popi sobre el archivo entero.
 
-**Aplicación retroactiva:** los capítulos de `06_Especies/` ya contienen, en sus
-notas de cierre, la identificación de qué secciones cumplen las condiciones de
-forma independiente. Se convierten esas notas en anotaciones inline formales en la
-siguiente pasada de mantenimiento, no en esta.
+**Aplicación retroactiva — completada 2026-08-16:** los capítulos de
+`06_Especies/` ya contenían, en sus notas de cierre, la identificación de qué
+secciones cumplían las condiciones de forma independiente. Esas notas se han
+convertido en anotaciones inline formales (`> [OK]`) en la pasada de
+mantenimiento del 2026-08-16 — 13 secciones anotadas en los 5 archivos. Al
+aplicar la anotación se detectó que algunos pies de página reclamaban cierre de
+secciones que en realidad contenían `[PENDIENTE]` sin resolver; esos casos no
+recibieron la anotación sin antes verificar directamente el `[PENDIENTE]`
+señalado — ver `11_Cronologia/` serie B para el detalle caso por caso.
 
 ---
 *Documento raíz. Cambios aquí obligan a revisar la coherencia de todos los capítulos
