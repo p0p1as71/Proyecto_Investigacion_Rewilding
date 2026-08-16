@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
+version: 0.2
 fecha: 2026-08-03
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.1
+version: 0.2
 fecha: 2026-08-03
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -28,12 +28,18 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 
 | Estado | Recuento |
 |---|---|
-| V (verificado) | 36 |
-| P (pendiente) | 16 |
-| C (conflicto) | 4 |
-| NL (no localizado) | 9 |
+| V (verificado) | 39 |
+| P (pendiente) | 14 |
+| C (conflicto) | 5 |
+| NL (no localizado) | 10 |
 | I (inferencia) | 5 |
-| **Total AF-### registradas** | **73** |
+| **Total AF-### registradas** | **75** |
+
+*Nota de esta sesión: AF-023 (P->V), AF-019 (P->C), AF-023-b y AF-023-c
+(nuevas, V con componente NL en AF-023-b). El pie de página histórico de este
+documento (línea final) arrastra un total de "65" no actualizado desde sesiones
+anteriores a la introducción de AF-066 a AF-073 — desincronización preexistente,
+no introducida hoy, señalada aquí para la próxima pasada de mantenimiento.*
 
 ## 02 — Marco Jurídico
 
@@ -62,7 +68,7 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 | AF-016 | Dictamen CC 62/2020: no evidencia científica de presencia histórica ni conespecificidad | N0 | V | §3.3 |
 | AF-017 | Hallazgo Sima de Arrafela: bisonte ~4.000 años, especie sin confirmar (B. bonasus / Clado X) | N5 | V (hallazgo) / NL (especie) | §3.4 |
 | AF-018 | Dato "25 universidades/9 países" de Nores et al. | N2 | P | §3.1 |
-| AF-019 | Debate herbívoros-incendios (Manzano/Azcárate/Hevia vs. Resco de Dios) | N2/N5 | P (identidad/filiación de Manzano/Azcárate/Hevia V; posición general V vía The Conversation; publicación "UPA Anuario 2024" citada sin verificar; Resco de Dios sin verificar) | §4 |
+| AF-019 | Debate herbívoros-incendios: ¿basta reintroducir grandes herbívoros para mitigar riesgo de incendio en renaturalización pasiva? (Manzano/Azcárate/Hevia vs. Resco de Dios) | N2/N5 | C (conflicto N2, Criterios §4) — ambas posiciones V individualmente (ver AF-023-b, AF-023-c); no hay consenso posterior documentado que lo resuelva | §4 (03); Marco_Social §6 |
 
 ## 04 — Marco Social
 
@@ -71,7 +77,9 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 | AF-020 | Cita Oteros-Rozas (Revista Soberanía Alimentaria / Rebelión) | N6 | V | §3 |
 | AF-021 | Identidad y financiación PASTRES (ERC 740342, 2.499.126,50€) | N1 | V | §4 |
 | AF-022 | Contenido textual ficha PASTRES 5/6 ("Rewilding and ecosystem restoration: what is natural?") | N0 | V | §4 |
-| AF-023 | Cita cabreros Bueno González/Bardají Cruz (Mallata.com) | N6 | P | §4 |
+| AF-023 | Cita cabreros Bueno González/Bardají Cruz (Mallata.com): crítica al "rewilding" como imposición estatal | N6 | V — `[ATRIBUCIÓN NO DISTINGUIBLE]` a org. concreta (no nombran Rewilding Spain/Europe) | §4 |
+| AF-023-b | Manzano/Azcárate/Hevia (2024), "Renaturalización pasiva y ganadería extensiva, ¿dos escenarios irreconciliables?", UPA Anuario 2024, pp. 188-193 | N5 | V (existencia bibliográfica y venue exacto) / NL (texto íntegro de esa pieza — robots.txt bloquea `upa.es`); sustancia corroborada vía pieza hermana 2023 (The Conversation) leída íntegra | §6 |
+| AF-023-c | Resco de Dios (RTVE, 03/12/2022): reintroducir herbívoros no basta para reducir riesgo de incendio (no consumen hojarasca) | N5 | V | §6 |
 | AF-024 | Declaración ASAJA Ávila (El Debate, 13/08/2025) | N5 | V | §5 |
 | AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS, "los ganaderos... jardineros del medio rural" (21/08/2025) | N5 | V | §5 |
 | AF-026 | Ausencia de pronunciamiento agrario específico sobre Rewilding Spain | — | NL | §5 |

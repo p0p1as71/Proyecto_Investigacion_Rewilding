@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.2
+version: 0.3
 fecha: 2026-08-03
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.2
+version: 0.3
 fecha: 2026-08-03
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -92,13 +92,25 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N5-006 | NuevaAlcarria, El Decano de Guadalajara, La Cerca, Informaciones de Guadalajara — piezas sobre buitre negro y caballo serrano/tauros en ecoturismo | 2026-08-02 |
 | N5-007 | El Diario (Castilla-La Mancha), sobre renovación de Patronato y buitre negro | 2026-08-02 |
 | N5-008 | Cambio16, pieza divulgativa general sobre rewilding (no específica del Sistema Ibérico Sur) | 2026-08-02 |
+| N5-012 | RTVE.es, "Reintroducirán manadas de caballos salvajes en la Serranía de Cuenca" (03/12/2022, declaración Resco de Dios), republicado en Radio Serranía | 2026-08-03 |
+| N5-013 | The Conversation ES, Azcárate/Manzano/Hevia, "¿Es la ganadería extensiva incompatible con la renaturalización?" (2023-07-19) | 2026-08-03 |
+| N5-014 | Manzano/Azcárate/Hevia (2024), UPA Anuario 2024, pp. 188-193 — existencia y venue confirmados vía bibliografía propia del autor (sites.google.com/site/pablomanzanobaena); PDF en `upa.es` bloquea acceso automatizado (robots.txt), texto íntegro `[NO LOCALIZADO]` | 2026-08-03 |
 
 ## N6 — Parte no institucional (agraria, pastoralista, entrevistas de terceros)
 
 Avance 2026-08-02: Oteros-Rozas (N6) y PASTRES (elevado a N0) verificados. ASAJA y
 UGAM-COAG/AIGAS quedan en N5 (comunicados institucionales, no fuente de parte
-directa). `[PENDIENTE]`: cabreros de Mallata.com, Manzano/Azcárate/Hevia (posición
-general verificada, publicación exacta no) y Resco de Dios.
+directa).
+
+Avance 2026-08-03: cabreros de Mallata.com verificados (N6-001, ver abajo).
+Manzano/Azcárate/Hevia y Resco de Dios se mantienen en N5 (ver arriba, N5-012 a
+N5-014) — son investigadores/prensa especializada citando investigadores, no
+fuente de parte no institucional; su reclasificación previa a N6 en el resumen de
+cobertura de este documento era imprecisa y se corrige aquí.
+
+| ID | Fuente | Consultado |
+|---|---|---|
+| N6-001 | Mallata.com, María Bueno González y Enrique Bardají Cruz, "En defensa del pastoreo, los bosques y la libertad" (2019-06-26) | 2026-08-03 |
 
 ## Resumen de cobertura por nivel
 
@@ -108,8 +120,8 @@ general verificada, publicación exacta no) y Resco de Dios.
 | N1 | 5 verificadas + 4 pendientes | Núcleo jurídico sólido; huecos puntuales |
 | N2 | 6 verificadas + 1 citada indirectamente | Debate del bisonte bien cubierto; Nogués-Bravo y Pérez-Barbería pendientes |
 | N4 | 8 fuentes institucionales agrupadas | Buena cobertura, sin contraste independiente por diseño (Criterios §1) |
-| N5 | 8 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
-| N6 | 0 | Deuda de verificación más importante del proyecto |
+| N5 | 11 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
+| N6 | 1 | Deuda de verificación N6 sustancialmente reducida (cabreros Mallata.com cerrado); resto de la deuda histórica reclasificada a N5 tras revisión de esta sesión |
 | N7 | No aplica (no son fuentes, son interpretaciones marcadas `[INFERENCIA]` en cada capítulo) | — |
 
 ---
