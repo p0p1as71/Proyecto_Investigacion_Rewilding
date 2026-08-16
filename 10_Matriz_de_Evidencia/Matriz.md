@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
+version: 0.4
 fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
+version: 0.4
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -37,13 +37,15 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 
 *Nota de esta sesión (continuación): AF-027 (P->V, con hueco NL residual en la
 pieza exacta de El País) y AF-028 (cita ahora V, lectura interpretativa sigue I).
+AF-022, AF-024 y AF-025 re-verificadas directamente hoy contra fuente primaria
+(no solo aceptado el `V` heredado de la sesión 2026-08-02) — sin discrepancias
+encontradas, desincronización texto-Matriz de `Marco_Social.md` §4/§5 cerrada.
 Con esto, `04_Marco_Social/Marco_Social.md` no tiene ya ninguna afirmación
 sustantiva en estado P — quedan dos huecos NL (El País/Saavedra, UPA Anuario
-2024/Manzano) y el conflicto N2 de AF-019, no bloqueos de verificación pendiente.
-Persiste, sin resolver, la desincronización ya señalada: el pie de página
-histórico de este documento (línea final) arrastra un total de "65" no
-actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073 —
-preexistente, no introducida en estas dos últimas sesiones.*
+2024/Manzano) y el conflicto N2 de AF-019, ambos no bloqueantes por diseño.
+Persiste, sin resolver, la desincronización preexistente ya señalada: el pie de
+página histórico de este documento (línea final) arrastra un total de "65" no
+actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073.*
 
 ## 02 — Marco Jurídico
 
@@ -80,12 +82,12 @@ preexistente, no introducida en estas dos últimas sesiones.*
 |---|---|---|---|---|
 | AF-020 | Cita Oteros-Rozas (Revista Soberanía Alimentaria / Rebelión) | N6 | V | §3 |
 | AF-021 | Identidad y financiación PASTRES (ERC 740342, 2.499.126,50€) | N1 | V | §4 |
-| AF-022 | Contenido textual ficha PASTRES 5/6 ("Rewilding and ecosystem restoration: what is natural?") | N0 | V | §4 |
+| AF-022 | Contenido textual ficha PASTRES 5/6 ("Rewilding and ecosystem restoration: what is natural?") | N0 | V (re-verificada directa 2026-08-16 contra PDF archivado, coincide en sustancia con la cita del informe de origen) | §4 |
 | AF-023 | Cita cabreros Bueno González/Bardají Cruz (Mallata.com): crítica al "rewilding" como imposición estatal | N6 | V — `[ATRIBUCIÓN NO DISTINGUIBLE]` a org. concreta (no nombran Rewilding Spain/Europe) | §4 |
 | AF-023-b | Manzano/Azcárate/Hevia (2024), "Renaturalización pasiva y ganadería extensiva, ¿dos escenarios irreconciliables?", UPA Anuario 2024, pp. 188-193 | N5 | V (existencia bibliográfica y venue exacto) / NL (texto íntegro de esa pieza — robots.txt bloquea `upa.es`); sustancia corroborada vía pieza hermana 2023 (The Conversation) leída íntegra | §6 |
 | AF-023-c | Resco de Dios (RTVE, 03/12/2022): reintroducir herbívoros no basta para reducir riesgo de incendio (no consumen hojarasca) | N5 | V | §6 |
-| AF-024 | Declaración ASAJA Ávila (El Debate, 13/08/2025) | N5 | V | §5 |
-| AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS, "los ganaderos... jardineros del medio rural" (21/08/2025) | N5 | V | §5 |
+| AF-024 | Declaración ASAJA Ávila (El Debate, 13/08/2025) | N5 | V (re-verificada directa 2026-08-16; cita textual "el pastoreo reduce la carga vegetal...") | §5 |
+| AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS, "los ganaderos... jardineros del medio rural" (21/08/2025) | N5 | V (re-verificada directa 2026-08-16 contra ifomo.es) | §5 |
 | AF-026 | Ausencia de pronunciamiento agrario específico sobre Rewilding Spain | — | NL | §5 |
 | AF-027 | Declaración Saavedra (Rewilding Europe, presentación Iberian Highlands, Cuenca 2022-10-19) | N4/N5 | V — sustancia verificada vía Europa Press/prensa regional; pieza específica de El País citada por informe de origen `[NO LOCALIZADO]` | §7 |
 | AF-028 | Declaración Schapira sobre sustitución funcional (Mongabay, agosto 2025) | N4 | V (cita textual confirmada) + I (lectura "sustituye funcionalmente" sigue marcada inferencia) | §7 |

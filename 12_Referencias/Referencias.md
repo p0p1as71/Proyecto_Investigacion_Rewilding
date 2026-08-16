@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.4
+version: 0.5
 fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
@@ -9,7 +9,7 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.4
+version: 0.5
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
@@ -83,8 +83,8 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | ID | Fuente | Consultado |
 |---|---|---|
 | N5-001 | El Salto, "Sistema Ibérico Sur: objetivo renaturalizar las tierras altas" | 2026-08-02 |
-| N5-009 | El Debate, "Asaja defiende ganadería extensiva como cortafuego natural" (13/08/2025), con réplicas en Forbes España y Agroinformacion | 2026-08-02 |
-| N5-010 | ifomo.es, comunicado UGAM-COAG/ASAJA/UPA/AIGAS Cantabria (21/08/2025) | 2026-08-02 |
+| N5-009 | El Debate, "Asaja defiende ganadería extensiva como cortafuego natural" (13/08/2025), con réplicas en Forbes España y Agroinformacion | 2026-08-02; re-consultado 2026-08-16 |
+| N5-010 | ifomo.es, comunicado UGAM-COAG/ASAJA/UPA/AIGAS Cantabria (21/08/2025) | 2026-08-02; re-consultado 2026-08-16 |
 | N5-011 | CLM24, ecoticias.com, El Diario, NuevaAlcarria, okdiario, El Español, Guadared, COPE, GuadalajaraDiario — cobertura de El Recuenco (bisontes, declaraciones alcalde Collada y Nores) | 2026-08-03 |
 | N5-002 | Infobae, hallazgo Sima de Arrafela | 2026-08-02 |
 | N5-003 | Noticias de Navarra / La Brújula Verde, hallazgo Sima de Arrafela (varias piezas) | 2026-08-02 |

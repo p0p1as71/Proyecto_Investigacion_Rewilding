@@ -1,7 +1,7 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
+version: 0.4
 fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md", "00_Gobernanza/Glosario.md", "00_Gobernanza/Decisiones_Editoriales.md", "00_Gobernanza/Convenciones_de_Redaccion.md"]
 ---
@@ -49,11 +49,22 @@ Liderado por Ian Scoones (STEPS/IDS, Universidad de Sussex) y Michele Nori (Euro
 University Institute, Florencia). El dato del informe de origen —ERC Advance Grant
 nº 740342— queda confirmado sin discrepancia.
 
-**Contenido de la posición PASTRES:** `[PENDIENTE verificar hoy]` — no contrastada la
-cita textual concreta atribuida por el informe de origen ("la cuestión no es
-establecer qué tipos de paisaje... sino qué valores, criterios estéticos y medios de
-subsistencia han de prevalecer"). Se mantiene como N2/N5 hasta verificación directa
-contra la ficha 5/6 citada.
+**Contenido de la posición PASTRES — verificado hoy** [N0, consultado 2026-08-16]
+contra `pastres.org/wp-content/uploads/2022/09/en-infosheet-5of6.pdf` ("Rewilding
+and ecosystem restoration: what is natural?", Brief 5/6). La ficha no formula la
+cuestión exactamente como la cita el informe de origen, pero sí contiene la idea
+central: tras presentar dos argumentos enfrentados sobre renaturalización y
+ganadería, concluye que "la gran pregunta [...] no es si una forma de paisaje o
+composición de especies es mejor para el medio ambiente [...] sino de quién son
+los valores, la estética y los medios de vida que cuentan" (traducción propia del
+original en inglés). Coincide en sustancia con la paráfrasis del informe de
+origen. La ficha también documenta el ARGUMENTO 1 (paisaje renaturalizado, más
+biodiversidad, sustituye ganadería por dietas basadas en plantas) y el ARGUMENTO 2
+(sistemas ganaderos de baja intensidad como parte del paisaje regenerado) de forma
+simétrica, sin tomar partido — relevante para el principio de simetría (Criterios
+§11). Este documento ya está archivado en `12_Referencias/originales/` con hash
+(N0-002); esta verificación completa el contenido pendiente desde la primera
+sesión.
 
 **Verificado hoy contra Mallata.com** [N6, consultado 2026-08-03]: el artículo
 "En defensa del pastoreo, los bosques y la libertad" (publicado 2019-06-26, escrito
@@ -69,10 +80,24 @@ presentar esta cita como una crítica dirigida a Rewilding Spain en particular.
 
 ## 5. Organizaciones agrarias
 
-`[PENDIENTE verificar hoy]` — no contrastadas en esta sesión: declaración de ASAJA
-Ávila (El Debate, 13/08/2025) ni comunicado conjunto UGAM-COAG/ASAJA/UPA/AIGAS de
-Cantabria (Europa Press Cantabria, 21/08/2025). Se mantienen como N5 sobre la base
-del informe de origen.
+**Verificado hoy** [N5, consultado 2026-08-16] contra El Debate (13/08/2025,
+replicado en Forbes España y Agroinformación): ASAJA Ávila, a raíz de los
+incendios en Castilla y León de agosto de 2025, defiende la ganadería extensiva
+como herramienta clave de prevención — "el pastoreo reduce la carga vegetal,
+rompe la continuidad del combustible y mantiene abierto y limpio el territorio"
+(cita textual). Denuncia "años de políticas equivocadas" y describe el abandono
+del territorio como "una renaturalización mal entendida que expulsa a ganaderos
+y agricultores" — uso explícito y crítico del término "renaturalización" en
+general, sin nombrar a Rewilding Spain ni Rewilding Europe.
+
+**Verificado hoy** [N5, consultado 2026-08-16] contra ifomo.es (21/08/2025):
+comunicado conjunto de UGAM-COAG, ASAJA, UPA y AIGAS (Cantabria) que pide
+"respeto y reconocimiento" al papel de la ganadería extensiva frente a
+declaraciones de "algunos grupos ecologistas" sobre ayudas PAC a terrenos
+quemados. Cita textual confirmada: "los ganaderos y sus animales son los
+verdaderos jardineros del medio rural". Tampoco nombra a Rewilding Spain ni
+Rewilding Europe — es una respuesta a organizaciones ecologistas genéricas, no
+a la Fundación Española de Renaturalización en particular.
 
 Aplicando DE-006 y el principio de simetría (Criterios §11): el informe de origen ya
 señala que no se ha localizado un pronunciamiento específico de estas organizaciones
@@ -174,32 +199,36 @@ funcionalmente") sigue siendo interpretativa aunque la cita de base ya no lo sea
 ## 8. Afirmaciones pendientes de incorporar a la Matriz
 
 `[TODO]` ninguna afirmación sustantiva queda sin trasladar. Trasladadas en esta
-sesión y en la anterior: cita cabreros Mallata.com (AF-023, V), posición Manzano/
-Azcárate/Hevia — UPA Anuario 2024 (AF-023-b, V parcial/`[NO LOCALIZADO]` texto
-íntegro), posición Resco de Dios (AF-023-c, V), conflicto entre ambas (AF-019,
-compartido con `03_Marco_Cientifico/`), declaración Schapira (AF-028, actualizar
-de I a V+I — cita confirmada, lectura sigue marcada inferencia) y declaración
-Saavedra (AF-027, actualizar a V — sustancia verificada vía fuente equivalente;
-la referencia El País específica permanece `[NO LOCALIZADO]`).
+sesión y en las dos anteriores: cita cabreros Mallata.com (AF-023, V), posición
+Manzano/Azcárate/Hevia — UPA Anuario 2024 (AF-023-b, V parcial/`[NO LOCALIZADO]`
+texto íntegro), posición Resco de Dios (AF-023-c, V), conflicto entre ambas
+(AF-019, compartido con `03_Marco_Cientifico/`), declaración Schapira (AF-028,
+V+I — cita confirmada, lectura sigue marcada inferencia), declaración Saavedra
+(AF-027, V — sustancia verificada vía fuente equivalente; la referencia El País
+específica permanece `[NO LOCALIZADO]`), contenido PASTRES ficha 5/6 (AF-022, V
+directa hoy, no solo heredada de la Matriz) y ASAJA Ávila / UGAM-COAG-ASAJA-UPA-
+AIGAS (AF-024, AF-025, V directa hoy).
 
-**Nota de consistencia detectada en esta sesión, no resuelta aquí:** el texto de
-§4 (PASTRES, contenido de la ficha) y de §5 (ASAJA Ávila, UGAM-COAG/ASAJA/UPA/
-AIGAS) sigue marcado `[PENDIENTE verificar hoy]` en este archivo, pero
-`10_Matriz_de_Evidencia/Matriz.md` ya registra esas mismas afirmaciones (AF-022,
-AF-024, AF-025) como `V` de una sesión anterior. Es una desincronización
-texto-Matriz igual a la que motivó la corrección de AF-020 registrada en
-`11_Cronologia/` — se deja anotada para la próxima pasada de mantenimiento.
+**Desincronización texto-Matriz señalada en la sesión anterior: resuelta hoy.**
+El texto de §4 (PASTRES) y §5 (ASAJA, UGAM-COAG/AIGAS) ya no está en
+`[PENDIENTE verificar hoy]` — se verificó directamente contra las fuentes
+primarias (PDF de PASTRES; El Debate/Forbes/Agroinformación; ifomo.es), no solo
+se aceptó el estado `V` que ya constaba en la Matriz. El contenido confirma en
+sustancia lo que la Matriz venía registrando desde la sesión del 2026-08-02, sin
+discrepancias materiales encontradas.
 
 ---
 *Bloqueos abiertos: ninguna afirmación sustantiva de este capítulo queda sin
-verificación directa a fecha de hoy. Persisten dos huecos no bloqueantes:
-(1) el texto íntegro de Manzano/Azcárate/Hevia en UPA Anuario 2024 concreto
-permanece `[NO LOCALIZADO]` por robots.txt, sostenido por pieza hermana leída
-íntegra; (2) la pieza de El País citada por el informe de origen para Saavedra
-permanece `[NO LOCALIZADO]`, sostenida por cobertura equivalente vía Europa
-Press/prensa regional. El eje herbívoros-incendios queda como `[CONFLICTO N2]`
-documentado (Criterios §4, DE-005), compartido con `03_Marco_Cientifico/` §4. El
-capítulo no puede pasar a `verificado` (Criterios §10) mientras persista la
-desincronización texto-Matriz de §4/§5 (nota de consistencia arriba) y los dos
-huecos `[NO LOCALIZADO]` señalados — pero ya no hay afirmaciones sin contrastar
-directamente.*
+verificación directa a fecha de hoy, y la desincronización texto-Matriz de §4/§5
+queda cerrada. Persisten únicamente dos huecos `[NO LOCALIZADO]` no bloqueantes
+por diseño (DE-006): (1) el texto íntegro de Manzano/Azcárate/Hevia en el PDF
+exacto de UPA Anuario 2024, bloqueado por robots.txt, sostenido por pieza
+hermana leída íntegra; (2) la pieza de El País citada por el informe de origen
+para Saavedra, sostenida por cobertura equivalente vía prensa regional. El eje
+herbívoros-incendios queda como `[CONFLICTO N2]` documentado (Criterios §4,
+DE-005), compartido con `03_Marco_Cientifico/` §4 — no se resuelve por diseño,
+no por falta de verificación. Con estos tres elementos como únicos pendientes
+(dos NL de diseño + un conflicto de diseño), el capítulo queda en condiciones de
+pasar a `en_revision` en la próxima pasada; `verificado` exige además aplicar
+las 11 condiciones de Criterios §10 completas (enlaces, Glosario, convenciones)
+que no se han auditado en esta sesión.*
