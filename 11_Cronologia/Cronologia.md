@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
-fecha: 2026-08-03
+version: 0.4
+fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
   - 00_Gobernanza/Glosario.md
@@ -12,8 +12,8 @@ depende_de:
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.4
-fecha: 2026-08-03
+version: 0.5
+fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md", "00_Gobernanza/Glosario.md", "00_Gobernanza/Decisiones_Editoriales.md", "00_Gobernanza/Convenciones_de_Redaccion.md"]
 ---
 
@@ -102,6 +102,7 @@ estatus semisilvestre.
 | 2026-08-02 | Matriz                                             | Corregida desincronización: AF-020 (Oteros-Rozas) pasó a V sin reflejarse en la Matriz tras verificarse en Marco_Social; AF-019 matizada (parcialmente verificada)                                                       | Detectado por revisión externa de Popi, no por el propio flujo de trabajo                                   |
 | 2026-08-02 | Limitaciones                                       | `en_redaccion` -> **cerrado** (confirmado por Popi)                                                                                                                                                                      | Sin bloqueos propios; cierre pendiente desde hacía varias sesiones                                          |
 | 2026-08-03 | Marco_Social + Matriz + Referencias                | Cierre de 3 deudas N6 señaladas por Popi: cabreros Mallata.com (V, `[ATRIBUCIÓN NO DISTINGUIBLE]`), Manzano/Azcárate/Hevia — UPA Anuario 2024 (V bibliográfico / NL texto íntegro por robots.txt), Resco de Dios RTVE 03/12/2022 (V). AF-023 P->V; AF-019 P->`[CONFLICTO N2]` (Criterios §4, DE-005); AF-023-b y AF-023-c añadidas a la Matriz. N6 reclasificado: Manzano/Azcárate/Hevia y Resco de Dios movidos de N6 a N5 (son N2 vía prensa/divulgación, no fuente de parte no institucional) | Sesión dirigida por Popi; desincronización texto-Matriz en §4/§5 de Marco_Social detectada y anotada, no corregida (fuera de alcance de esta sesión) |
+| 2026-08-16 | Marco_Social + Matriz + Referencias                | Cierre de Saavedra/Schapira (§7): cita de Schapira (Mongabay, agosto 2025) confirmada textual — "nadie quiere seguir con la ganadería extensiva..."; atribución a Rewilding Spain explícita en fuente. Saavedra: sustancia verificada vía Europa Press/prensa regional (evento Cuenca 2022-10-19), pieza específica de El País citada por informe de origen `[NO LOCALIZADO]` (DE-006). AF-027 P->V; AF-028 I->V+I (cita V, lectura sigue marcada inferencia). `04_Marco_Social/Marco_Social.md` queda sin afirmaciones sustantivas en estado P | Continuación de la sesión de cierre de deudas N6; commit de la sesión anterior confirmado en GitHub (`p0p1as71/Proyecto_Investigacion_Rewilding`, main) antes de empezar esta ronda |
 
 **Decisión editorial pendiente, señalada repetidamente y aún sin resolver:** si un
 archivo `.md` puede cerrarse `verificado` por secciones (estado mixto) en lugar de

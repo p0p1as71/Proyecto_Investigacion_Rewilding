@@ -1,16 +1,16 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
-fecha: 2026-08-03
+version: 0.4
+fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
 ---
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.3
-fecha: 2026-08-03
+version: 0.4
+fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
 
@@ -76,6 +76,7 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N4-006 | Rewilding Spain, LinkedIn corporativo | 2026-08-02 |
 | N4-007 | Taurus Foundation / Tauros Programme, web propia | 2026-08-02 |
 | N4-008 | CORDIS (Comisión Europea), ficha PASTRES, grant 740342 | 2026-08-02 |
+| N4-009 | Mongabay, "Rewilding project aims to restore resilience to fire-prone Spain via wildlife" (Jeremy Hance, agosto 2025), cita textual de Pablo Schapira atribuida a Rewilding Spain | 2026-08-16 |
 
 ## N5 — Prensa
 
@@ -95,6 +96,7 @@ Castilla-La Mancha sobre estatus semisilvestre equino.
 | N5-012 | RTVE.es, "Reintroducirán manadas de caballos salvajes en la Serranía de Cuenca" (03/12/2022, declaración Resco de Dios), republicado en Radio Serranía | 2026-08-03 |
 | N5-013 | The Conversation ES, Azcárate/Manzano/Hevia, "¿Es la ganadería extensiva incompatible con la renaturalización?" (2023-07-19) | 2026-08-03 |
 | N5-014 | Manzano/Azcárate/Hevia (2024), UPA Anuario 2024, pp. 188-193 — existencia y venue confirmados vía bibliografía propia del autor (sites.google.com/site/pablomanzanobaena); PDF en `upa.es` bloquea acceso automatizado (robots.txt), texto íntegro `[NO LOCALIZADO]` | 2026-08-03 |
+| N5-015 | Europa Press / El Español (ed. Castilla-La Mancha) / Diario de Cuenca / Hospedería del Seminario — cobertura de la presentación "The Iberian Highlands" en Cuenca (2022-10-19), declaraciones de Deli Saavedra (Rewilding Europe); pieza de El País citada por el informe de origen para esta misma fecha `[NO LOCALIZADO]` | 2026-08-16 |
 
 ## N6 — Parte no institucional (agraria, pastoralista, entrevistas de terceros)
 
@@ -119,8 +121,8 @@ cobertura de este documento era imprecisa y se corrige aquí.
 | N0 | 1 | Único documento con archivo propio + hash |
 | N1 | 5 verificadas + 4 pendientes | Núcleo jurídico sólido; huecos puntuales |
 | N2 | 6 verificadas + 1 citada indirectamente | Debate del bisonte bien cubierto; Nogués-Bravo y Pérez-Barbería pendientes |
-| N4 | 8 fuentes institucionales agrupadas | Buena cobertura, sin contraste independiente por diseño (Criterios §1) |
-| N5 | 11 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
+| N4 | 9 fuentes institucionales agrupadas | Buena cobertura, sin contraste independiente por diseño (Criterios §1) |
+| N5 | 13 fuentes de prensa agrupadas | Cobertura amplia, calidad variable |
 | N6 | 1 | Deuda de verificación N6 sustancialmente reducida (cabreros Mallata.com cerrado); resto de la deuda histórica reclasificada a N5 tras revisión de esta sesión |
 | N7 | No aplica (no son fuentes, son interpretaciones marcadas `[INFERENCIA]` en cada capítulo) | — |
 

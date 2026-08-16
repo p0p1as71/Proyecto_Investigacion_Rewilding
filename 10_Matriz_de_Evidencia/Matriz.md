@@ -1,16 +1,16 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.2
-fecha: 2026-08-03
+version: 0.3
+fecha: 2026-08-16
 depende_de:
   - 00_Gobernanza/Criterios_de_Evidencia.md
 ---
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.2
-fecha: 2026-08-03
+version: 0.3
+fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md"]
 ---
 
@@ -28,18 +28,22 @@ sin resolver · NL = no localizado (DE-006) · I = inferencia marcada
 
 | Estado | Recuento |
 |---|---|
-| V (verificado) | 39 |
-| P (pendiente) | 14 |
+| V (verificado) | 41 |
+| P (pendiente) | 13 |
 | C (conflicto) | 5 |
 | NL (no localizado) | 10 |
 | I (inferencia) | 5 |
 | **Total AF-### registradas** | **75** |
 
-*Nota de esta sesión: AF-023 (P->V), AF-019 (P->C), AF-023-b y AF-023-c
-(nuevas, V con componente NL en AF-023-b). El pie de página histórico de este
-documento (línea final) arrastra un total de "65" no actualizado desde sesiones
-anteriores a la introducción de AF-066 a AF-073 — desincronización preexistente,
-no introducida hoy, señalada aquí para la próxima pasada de mantenimiento.*
+*Nota de esta sesión (continuación): AF-027 (P->V, con hueco NL residual en la
+pieza exacta de El País) y AF-028 (cita ahora V, lectura interpretativa sigue I).
+Con esto, `04_Marco_Social/Marco_Social.md` no tiene ya ninguna afirmación
+sustantiva en estado P — quedan dos huecos NL (El País/Saavedra, UPA Anuario
+2024/Manzano) y el conflicto N2 de AF-019, no bloqueos de verificación pendiente.
+Persiste, sin resolver, la desincronización ya señalada: el pie de página
+histórico de este documento (línea final) arrastra un total de "65" no
+actualizado desde sesiones anteriores a la introducción de AF-066 a AF-073 —
+preexistente, no introducida en estas dos últimas sesiones.*
 
 ## 02 — Marco Jurídico
 
@@ -83,8 +87,8 @@ no introducida hoy, señalada aquí para la próxima pasada de mantenimiento.*
 | AF-024 | Declaración ASAJA Ávila (El Debate, 13/08/2025) | N5 | V | §5 |
 | AF-025 | Comunicado UGAM-COAG/ASAJA/UPA/AIGAS, "los ganaderos... jardineros del medio rural" (21/08/2025) | N5 | V | §5 |
 | AF-026 | Ausencia de pronunciamiento agrario específico sobre Rewilding Spain | — | NL | §5 |
-| AF-027 | Declaración Saavedra (El País, 19/10/2022) | N4 | P | §7 |
-| AF-028 | Declaración Schapira sobre sustitución funcional (Mongabay) | N4 | I | §7 |
+| AF-027 | Declaración Saavedra (Rewilding Europe, presentación Iberian Highlands, Cuenca 2022-10-19) | N4/N5 | V — sustancia verificada vía Europa Press/prensa regional; pieza específica de El País citada por informe de origen `[NO LOCALIZADO]` | §7 |
+| AF-028 | Declaración Schapira sobre sustitución funcional (Mongabay, agosto 2025) | N4 | V (cita textual confirmada) + I (lectura "sustituye funcionalmente" sigue marcada inferencia) | §7 |
 
 ## 05 — Reintroducciones
 

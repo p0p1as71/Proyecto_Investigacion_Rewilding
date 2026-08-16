@@ -1,8 +1,8 @@
 ---
 tipo: capitulo
 estado: en_redaccion
-version: 0.2
-fecha: 2026-08-03
+version: 0.3
+fecha: 2026-08-16
 depende_de: ["00_Gobernanza/Criterios_de_Evidencia.md", "00_Gobernanza/Glosario.md", "00_Gobernanza/Decisiones_Editoriales.md", "00_Gobernanza/Convenciones_de_Redaccion.md"]
 ---
 
@@ -135,29 +135,52 @@ que registra el mismo debate — se consolida ahí como conflicto compartido.
 
 ## 7. La respuesta de Rewilding Spain / Rewilding Europe
 
-`[PENDIENTE verificar hoy]` — no contrastadas las declaraciones atribuidas a Deli
-Saavedra (El País, 19/10/2022) ni a Pablo Schapira (Mongabay, 28/08/2025). Aplicando
-Criterios §2: ambas declaraciones deben mantenerse diferenciadas por organización
-—Saavedra se cita como Rewilding Europe, Schapira como director de proyecto sin
-organización explícita en la cita disponible— `[ATRIBUCIÓN NO DISTINGUIBLE]`
-provisional hasta verificar la fuente.
+**Schapira — verificado hoy** [N4, consultado 2026-08-16] contra Mongabay,
+"Rewilding project aims to restore resilience to fire-prone Spain via wildlife"
+(Jeremy Hance, agosto de 2025 — día exacto no confirmado más allá del mes; URL de
+publicación bajo `/2025/08/`, próximo a pero no idéntico al 28/08/2025 citado por
+el informe de origen). La cita se confirma **tal cual**: Pablo Schapira, citado
+como "team leader with Rewilding Spain" (sin cargo institucional más específico
+en el artículo), declara literalmente que nadie quiere seguir con la ganadería
+extensiva porque es dura y poco rentable, y que es difícil competir con las
+grandes explotaciones. Aplicando Criterios §2: la atribución organizativa es
+Rewilding Spain, no `[ATRIBUCIÓN NO DISTINGUIBLE]` — el artículo sí la nombra
+explícitamente como su organización.
 
-**Nota de análisis (marcada `[INFERENCIA]`):** si la cita atribuida a Schapira
-("nadie quiere seguir con la ganadería extensiva porque es una vida dura, porque no
-es realmente rentable") se confirma tal cual, constituye una admisión de que el
-rewilding sustituye funcionalmente una actividad en retirada — lo cual es una
-lectura de este informe sobre lo que la cita implicaría, no una afirmación textual
-de Schapira. Se etiqueta como inferencia y se retira si la verificación directa no
-sostiene el matiz.
+**Saavedra — `[NO LOCALIZADO]` en El País** [consultado 2026-08-16]. Existe
+cobertura abundante del mismo evento (presentación del proyecto "The Iberian
+Highlands" en Cuenca, 2022-10-19) con declaraciones equivalentes de Deli
+Saavedra —identificado en todas las piezas encontradas como director de
+Paisajes de Rewilding Europe—, distribuida por Europa Press y replicada en El
+Español (edición Castilla-La Mancha), Diario de Cuenca y otros medios
+regionales, todas fechadas 2022-10-19. No se ha localizado la pieza específica
+de **El País** citada por el informe de origen: puede tratarse de una
+confusión de medio (el informe de origen pudo tomar la nota de Europa Press vía
+El País sin que esta esté indexada de forma recuperable hoy, o de un error de
+atribución del informe de origen). Aplicando DE-006: se marca `[NO LOCALIZADO]`
+la pieza de El País, no se asume que no exista. La sustancia de la declaración
+—Saavedra presentando el proyecto como iniciativa socioeconómica para generar
+oportunidades vía turismo y productos locales— sí está verificada contra fuente
+equivalente (Europa Press/regional), con atribución a Rewilding Europe clara y
+sin ambigüedad organizativa.
+
+**Nota de análisis (marcada `[INFERENCIA]`), ya no condicional:** la cita de
+Schapira, ahora confirmada tal cual, constituye una admisión de que el rewilding
+sustituye funcionalmente una actividad económica en retirada — lectura de este
+informe sobre lo que la cita implica, no una afirmación textual de Schapira. Se
+mantiene el etiquetado `[INFERENCIA]` porque la lectura ("sustituye
+funcionalmente") sigue siendo interpretativa aunque la cita de base ya no lo sea.
 
 ## 8. Afirmaciones pendientes de incorporar a la Matriz
 
-`[TODO]` trasladar a `10_Matriz_de_Evidencia/Matriz.md` como AF-### con bloque
-R1-R4: declaración Saavedra; declaración Schapira. Ya trasladadas en esta sesión:
-cita cabreros Mallata.com (AF-023, V), posición Manzano/Azcárate/Hevia — UPA
-Anuario 2024 (AF-023-b, nuevo, V parcial/`[NO LOCALIZADO]` texto íntegro),
-posición Resco de Dios (AF-023-c, nuevo, V), y el conflicto entre ambas (marcado
-en AF-019, compartido con `03_Marco_Cientifico/`).
+`[TODO]` ninguna afirmación sustantiva queda sin trasladar. Trasladadas en esta
+sesión y en la anterior: cita cabreros Mallata.com (AF-023, V), posición Manzano/
+Azcárate/Hevia — UPA Anuario 2024 (AF-023-b, V parcial/`[NO LOCALIZADO]` texto
+íntegro), posición Resco de Dios (AF-023-c, V), conflicto entre ambas (AF-019,
+compartido con `03_Marco_Cientifico/`), declaración Schapira (AF-028, actualizar
+de I a V+I — cita confirmada, lectura sigue marcada inferencia) y declaración
+Saavedra (AF-027, actualizar a V — sustancia verificada vía fuente equivalente;
+la referencia El País específica permanece `[NO LOCALIZADO]`).
 
 **Nota de consistencia detectada en esta sesión, no resuelta aquí:** el texto de
 §4 (PASTRES, contenido de la ficha) y de §5 (ASAJA Ávila, UGAM-COAG/ASAJA/UPA/
@@ -165,18 +188,18 @@ AIGAS) sigue marcado `[PENDIENTE verificar hoy]` en este archivo, pero
 `10_Matriz_de_Evidencia/Matriz.md` ya registra esas mismas afirmaciones (AF-022,
 AF-024, AF-025) como `V` de una sesión anterior. Es una desincronización
 texto-Matriz igual a la que motivó la corrección de AF-020 registrada en
-`11_Cronologia/` — se deja anotada para la próxima pasada de mantenimiento, fuera
-del alcance de la verificación pedida hoy (cabreros, Manzano/Azcárate/Hevia,
-Resco de Dios).
+`11_Cronologia/` — se deja anotada para la próxima pasada de mantenimiento.
 
 ---
-*Bloqueos abiertos: 2 de 9 afirmaciones sustantivas sin contraste directo
-(declaración Saavedra, declaración Schapira). Las 3 deudas N6 señaladas para esta
-sesión (cabreros Mallata.com, publicación exacta Manzano/Azcárate/Hevia, Resco de
-Dios) quedan verificadas — la de Manzano/Azcárate/Hevia con la salvedad de que el
-texto íntegro de la pieza exacta (UPA Anuario 2024) permanece `[NO LOCALIZADO]`
-por bloqueo de acceso automatizado, sostenida por una pieza hermana de los mismos
-autores sí leída en su totalidad. El eje herbívoros-incendios pasa de bloqueo
-parcial a `[CONFLICTO N2]` documentado, compartido con `03_Marco_Cientifico/` §4.
-No puede pasar a `verificado` mientras persistan Saavedra/Schapira sin contrastar,
-y mientras la desincronización texto-Matriz de §4/§5 no se corrija.*
+*Bloqueos abiertos: ninguna afirmación sustantiva de este capítulo queda sin
+verificación directa a fecha de hoy. Persisten dos huecos no bloqueantes:
+(1) el texto íntegro de Manzano/Azcárate/Hevia en UPA Anuario 2024 concreto
+permanece `[NO LOCALIZADO]` por robots.txt, sostenido por pieza hermana leída
+íntegra; (2) la pieza de El País citada por el informe de origen para Saavedra
+permanece `[NO LOCALIZADO]`, sostenida por cobertura equivalente vía Europa
+Press/prensa regional. El eje herbívoros-incendios queda como `[CONFLICTO N2]`
+documentado (Criterios §4, DE-005), compartido con `03_Marco_Cientifico/` §4. El
+capítulo no puede pasar a `verificado` (Criterios §10) mientras persista la
+desincronización texto-Matriz de §4/§5 (nota de consistencia arriba) y los dos
+huecos `[NO LOCALIZADO]` señalados — pero ya no hay afirmaciones sin contrastar
+directamente.*
